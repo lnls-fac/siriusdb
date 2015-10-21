@@ -1,7 +1,7 @@
 # Vertical corrector
 # harmonics       0
-# main_harmonic   0
-# units           Ampere Tm Tm
+# main_harmonic   0 skew
+# units           Ampere T*m T*m
 #
--1000	0 -1000
-+1000	0 +1000
+-1.00e+01	+0.00e+00 -3.50e-03
++1.00e+01	+0.00e+00 +3.50e-03 
