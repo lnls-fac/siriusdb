@@ -1,7 +1,0 @@
-# Sextupole
-# harmonics       2
-# main_harmonic   2
-# units           Ampere T/m T/m
-#
--1000 -1000	0
-+1000 +1000	0
