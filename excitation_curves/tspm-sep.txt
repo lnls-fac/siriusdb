@@ -1,7 +1,0 @@
-# Septum
-# harmonics       0
-# main_harmonic   0
-# units           Ampere Tm Tm
-#
--1000	-1000	0
-+1000	+1000	0
