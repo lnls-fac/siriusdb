@@ -24,7 +24,7 @@ BORF-VOLTAGE                                      DESCRIPTION_IS_MISSING
 BORF-FREQUENCY                                    DESCRIPTION_IS_MISSING
 
 
-# --- PS (family power supplies) ---
+# --- PS (power supplies - families) ---
 
 BOPS-BEND-FAM-A                                   DESCRIPTION_IS_MISSING
 BOPS-BEND-FAM-B                                   DESCRIPTION_IS_MISSING
@@ -34,7 +34,7 @@ BOPS-QF-FAM                                       DESCRIPTION_IS_MISSING
 BOPS-QD-FAM                                       DESCRIPTION_IS_MISSING
 
 
-# --- PS (vertical correctors) ---
+# --- PS (power supplies - vertical correctors) ---
 
 BOPS-CV-49-U                                      DESCRIPTION_IS_MISSING
 BOPS-CV-47-U                                      DESCRIPTION_IS_MISSING
@@ -63,7 +63,7 @@ BOPS-CV-03-U                                      DESCRIPTION_IS_MISSING
 BOPS-CV-01-U                                      DESCRIPTION_IS_MISSING
 
 
-# --- PS (horizontal correctors) ---
+# --- PS (power supplies - horizontal correctors) ---
 
 BOPS-CH-49-D                                      DESCRIPTION_IS_MISSING
 BOPS-CH-47-U                                      DESCRIPTION_IS_MISSING

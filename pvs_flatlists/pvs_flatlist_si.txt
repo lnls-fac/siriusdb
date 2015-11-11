@@ -20,7 +20,7 @@ SIRF-VOLTAGE                                      DESCRIPTION_IS_MISSING
 SIRF-FREQUENCY                                    DESCRIPTION_IS_MISSING
 
 
-# --- PS (family power supplies) ---
+# --- PS (power supplies - families) ---
 
 SIPS-BEND-FAM                                     DESCRIPTION_IS_MISSING
 SIPS-SFA-FAM                                      DESCRIPTION_IS_MISSING
@@ -48,7 +48,7 @@ SIPS-SFB-FAM                                      DESCRIPTION_IS_MISSING
 SIPS-QDB2-FAM                                     DESCRIPTION_IS_MISSING
 
 
-# --- PS (individual sextupoles) ---
+# --- PS (power supplies - individual sextupoles) ---
 
 SIPS-SFB-20M1                                     DESCRIPTION_IS_MISSING
 SIPS-SFB-19M1                                     DESCRIPTION_IS_MISSING
@@ -332,7 +332,7 @@ SIPS-SD1J-02C1                                    DESCRIPTION_IS_MISSING
 SIPS-SD1J-01C1                                    DESCRIPTION_IS_MISSING
 
 
-# --- PS (individual skew quadrupoles) ---
+# --- PS (power supplies - individual skew quadrupoles) ---
 
 SIPS-QS-20M2                                      DESCRIPTION_IS_MISSING
 SIPS-QS-20M1                                      DESCRIPTION_IS_MISSING
@@ -416,7 +416,7 @@ SIPS-QS-01C4                                      DESCRIPTION_IS_MISSING
 SIPS-QS-01C1                                      DESCRIPTION_IS_MISSING
 
 
-# --- PS (individual normal quadrupoles) ---
+# --- PS (power supplies - individual normal quadrupoles) ---
 
 SIPS-QFB-20M1                                     DESCRIPTION_IS_MISSING
 SIPS-QFB-19M1                                     DESCRIPTION_IS_MISSING
@@ -680,7 +680,7 @@ SIPS-QDA-02M2                                     DESCRIPTION_IS_MISSING
 SIPS-QDA-01M2                                     DESCRIPTION_IS_MISSING
 
 
-# --- PS (fast vertical correctors) ---
+# --- PS (power supplies - fast vertical correctors) ---
 
 SIPS-FCV-20M2                                     DESCRIPTION_IS_MISSING
 SIPS-FCV-20M1                                     DESCRIPTION_IS_MISSING
@@ -764,7 +764,7 @@ SIPS-FCV-01C3                                     DESCRIPTION_IS_MISSING
 SIPS-FCV-01C2                                     DESCRIPTION_IS_MISSING
 
 
-# --- PS (fast horizontal correctors) ---
+# --- PS (power supplies - fast horizontal correctors) ---
 
 SIPS-FCH-20M2                                     DESCRIPTION_IS_MISSING
 SIPS-FCH-20M1                                     DESCRIPTION_IS_MISSING
@@ -847,7 +847,7 @@ SIPS-FCH-01M1                                     DESCRIPTION_IS_MISSING
 SIPS-FCH-01C3                                     DESCRIPTION_IS_MISSING
 SIPS-FCH-01C2                                     DESCRIPTION_IS_MISSING
 
-# --- PS (slow vertical correctors) ---
+# --- PS (power supplies - slow vertical correctors) ---
 
 SIPS-CV-20M2                                      DESCRIPTION_IS_MISSING
 SIPS-CV-20M1                                      DESCRIPTION_IS_MISSING
@@ -1010,7 +1010,7 @@ SIPS-CV-01C2-B                                    DESCRIPTION_IS_MISSING
 SIPS-CV-01C2-A                                    DESCRIPTION_IS_MISSING
 SIPS-CV-01C1                                      DESCRIPTION_IS_MISSING
 
-# --- PS (slow horizontal correctors) ---
+# --- PS (power supplies - slow horizontal correctors) ---
 
 SIPS-CH-20M2                                      DESCRIPTION_IS_MISSING
 SIPS-CH-20M1                                      DESCRIPTION_IS_MISSING
