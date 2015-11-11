@@ -3,7 +3,7 @@
 #
 # Lists all BO PVs implemented in the Virtual Accelerator Channel Access
 #
-# TIMESTAMP: 2015-11-11 15:05:59  (by sirius-pvs-generate-flatlist.py)
+# TIMESTAMP: 2015-11-11 15:46:59  (by sirius-pvs-generate-flatlist.py)
 #
 
 
@@ -104,7 +104,13 @@ BOPA-CHROMY                                       DESCRIPTION_IS_MISSING
 BOPA-CHROMX                                       DESCRIPTION_IS_MISSING
 BOPA-BLIFETIME                                    DESCRIPTION_IS_MISSING
 
+
 # --- FK (fake virtual accelerator PVs) ---
+
+BOFK-SAVEFLATFILE                                 DESCRIPTION_IS_MISSING
+
+
+# --- FK (fake virtual accelerator PVs - vertical misalignments) ---
 
 BOFK-ERRORY-SF-50-U                               DESCRIPTION_IS_MISSING
 BOFK-ERRORY-SF-48-U                               DESCRIPTION_IS_MISSING
@@ -317,6 +323,9 @@ BOFK-ERRORY-BEND-03                               DESCRIPTION_IS_MISSING
 BOFK-ERRORY-BEND-02                               DESCRIPTION_IS_MISSING
 BOFK-ERRORY-BEND-01                               DESCRIPTION_IS_MISSING
 
+
+# --- FK (fake virtual accelerator PVs - horizontal misalignments) ---
+
 BOFK-ERRORX-SF-50-U                               DESCRIPTION_IS_MISSING
 BOFK-ERRORX-SF-48-U                               DESCRIPTION_IS_MISSING
 BOFK-ERRORX-SF-46-U                               DESCRIPTION_IS_MISSING
@@ -527,6 +536,9 @@ BOFK-ERRORX-BEND-04                               DESCRIPTION_IS_MISSING
 BOFK-ERRORX-BEND-03                               DESCRIPTION_IS_MISSING
 BOFK-ERRORX-BEND-02                               DESCRIPTION_IS_MISSING
 BOFK-ERRORX-BEND-01                               DESCRIPTION_IS_MISSING
+
+
+# --- FK (fake virtual accelerator PVs - roll rotation errors) ---
 
 BOFK-ERRORR-SF-50-U                               DESCRIPTION_IS_MISSING
 BOFK-ERRORR-SF-48-U                               DESCRIPTION_IS_MISSING
@@ -739,14 +751,21 @@ BOFK-ERRORR-BEND-03                               DESCRIPTION_IS_MISSING
 BOFK-ERRORR-BEND-02                               DESCRIPTION_IS_MISSING
 BOFK-ERRORR-BEND-01                               DESCRIPTION_IS_MISSING
 
+
+# --- DI (diagnostics) ---
+
 BODI-TUNEV                                        DESCRIPTION_IS_MISSING
 BODI-TUNES                                        DESCRIPTION_IS_MISSING
 BODI-TUNEH                                        DESCRIPTION_IS_MISSING
 BODI-CURRENT                                      DESCRIPTION_IS_MISSING
 BODI-BCURRENT                                     DESCRIPTION_IS_MISSING
 
+
+# --- DI (diagnostics - bpms) ---
+
 BODI-BPM-FAM-Y                                    DESCRIPTION_IS_MISSING
 BODI-BPM-FAM-X                                    DESCRIPTION_IS_MISSING
+
 BODI-BPM-50-U                                     DESCRIPTION_IS_MISSING
 BODI-BPM-49-U                                     DESCRIPTION_IS_MISSING
 BODI-BPM-48-U                                     DESCRIPTION_IS_MISSING
