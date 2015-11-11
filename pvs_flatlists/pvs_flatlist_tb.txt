@@ -1,0 +1,172 @@
+# LINAC-BOOSTER TRANSPORT LINE PV FLATLIST
+# ========================================
+#
+# Lists all TB PVs implemented in the Virtual Accelerator Channel Access
+#
+# TIMESTAMP: 2015-11-11 15:05:59  (by sirius-pvs-generate-flatlist.py)
+#
+
+
+# --- TI (timing) ---
+
+TBTI-SEPTUMINJ-ENABLED                            DESCRIPTION_IS_MISSING
+TBTI-SEPTUMINJ-DELAY                              DESCRIPTION_IS_MISSING
+TBTI-SEPTUMEX-ENABLED                             DESCRIPTION_IS_MISSING
+TBTI-SEPTUMEX-DELAY                               DESCRIPTION_IS_MISSING
+
+
+# --- PU (pulsed magnets) ---
+
+TBPU-SEPIN-05                                     DESCRIPTION_IS_MISSING
+
+
+# --- PS (power supplies)
+
+TBPS-QF-05                                        DESCRIPTION_IS_MISSING
+TBPS-QF-04                                        DESCRIPTION_IS_MISSING
+TBPS-QF-03-B                                      DESCRIPTION_IS_MISSING
+TBPS-QF-03-A                                      DESCRIPTION_IS_MISSING
+TBPS-QF-02                                        DESCRIPTION_IS_MISSING
+TBPS-QD-05                                        DESCRIPTION_IS_MISSING
+TBPS-QD-04                                        DESCRIPTION_IS_MISSING
+TBPS-QD-03-B                                      DESCRIPTION_IS_MISSING
+TBPS-QD-03-A                                      DESCRIPTION_IS_MISSING
+TBPS-QD-02                                        DESCRIPTION_IS_MISSING
+TBPS-Q1C-01                                       DESCRIPTION_IS_MISSING
+TBPS-Q1B-01                                       DESCRIPTION_IS_MISSING
+TBPS-Q1A-01-B                                     DESCRIPTION_IS_MISSING
+TBPS-Q1A-01-A                                     DESCRIPTION_IS_MISSING
+TBPS-CV-05-B                                      DESCRIPTION_IS_MISSING
+TBPS-CV-05-A                                      DESCRIPTION_IS_MISSING
+TBPS-CV-03-B                                      DESCRIPTION_IS_MISSING
+TBPS-CV-03-A                                      DESCRIPTION_IS_MISSING
+TBPS-CV-02-B                                      DESCRIPTION_IS_MISSING
+TBPS-CV-02-A                                      DESCRIPTION_IS_MISSING
+TBPS-CH-04                                        DESCRIPTION_IS_MISSING
+TBPS-CH-03-B                                      DESCRIPTION_IS_MISSING
+TBPS-CH-03-A                                      DESCRIPTION_IS_MISSING
+TBPS-CH-02-B                                      DESCRIPTION_IS_MISSING
+TBPS-CH-02-A                                      DESCRIPTION_IS_MISSING
+TBPS-BEND-04                                      DESCRIPTION_IS_MISSING
+TBPS-BEND-03                                      DESCRIPTION_IS_MISSING
+TBPS-BEND-02                                      DESCRIPTION_IS_MISSING
+TBPS-BEND-01                                      DESCRIPTION_IS_MISSING
+
+
+# --- FK (virtual accelerator fake PVs) ---
+
+TBFK-SAVEFLATFILE                                 DESCRIPTION_IS_MISSING
+
+
+# --- FK (virtual accelerator fake PVs - vertical misalignments) ---
+
+TBFK-ERRORY-SEPIN-05                              DESCRIPTION_IS_MISSING
+TBFK-ERRORY-QF-05                                 DESCRIPTION_IS_MISSING
+TBFK-ERRORY-QF-04                                 DESCRIPTION_IS_MISSING
+TBFK-ERRORY-QF-03-B                               DESCRIPTION_IS_MISSING
+TBFK-ERRORY-QF-03-A                               DESCRIPTION_IS_MISSING
+TBFK-ERRORY-QF-02                                 DESCRIPTION_IS_MISSING
+TBFK-ERRORY-QD-05                                 DESCRIPTION_IS_MISSING
+TBFK-ERRORY-QD-04                                 DESCRIPTION_IS_MISSING
+TBFK-ERRORY-QD-03-B                               DESCRIPTION_IS_MISSING
+TBFK-ERRORY-QD-03-A                               DESCRIPTION_IS_MISSING
+TBFK-ERRORY-QD-02                                 DESCRIPTION_IS_MISSING
+TBFK-ERRORY-Q1C-01                                DESCRIPTION_IS_MISSING
+TBFK-ERRORY-Q1B-01                                DESCRIPTION_IS_MISSING
+TBFK-ERRORY-Q1A-01-B                              DESCRIPTION_IS_MISSING
+TBFK-ERRORY-Q1A-01-A                              DESCRIPTION_IS_MISSING
+TBFK-ERRORY-CV-05-B                               DESCRIPTION_IS_MISSING
+TBFK-ERRORY-CV-05-A                               DESCRIPTION_IS_MISSING
+TBFK-ERRORY-CV-03-B                               DESCRIPTION_IS_MISSING
+TBFK-ERRORY-CV-03-A                               DESCRIPTION_IS_MISSING
+TBFK-ERRORY-CV-02-B                               DESCRIPTION_IS_MISSING
+TBFK-ERRORY-CV-02-A                               DESCRIPTION_IS_MISSING
+TBFK-ERRORY-CH-04                                 DESCRIPTION_IS_MISSING
+TBFK-ERRORY-CH-03-B                               DESCRIPTION_IS_MISSING
+TBFK-ERRORY-CH-03-A                               DESCRIPTION_IS_MISSING
+TBFK-ERRORY-CH-02-B                               DESCRIPTION_IS_MISSING
+TBFK-ERRORY-CH-02-A                               DESCRIPTION_IS_MISSING
+TBFK-ERRORY-BEND-04                               DESCRIPTION_IS_MISSING
+TBFK-ERRORY-BEND-03                               DESCRIPTION_IS_MISSING
+TBFK-ERRORY-BEND-02                               DESCRIPTION_IS_MISSING
+TBFK-ERRORY-BEND-01                               DESCRIPTION_IS_MISSING
+TBFK-ERRORX-SEPIN-05                              DESCRIPTION_IS_MISSING
+
+
+# --- FK (virtual accelerator fake PVs - horizontal misalignments) ---
+
+TBFK-ERRORX-QF-05                                 DESCRIPTION_IS_MISSING
+TBFK-ERRORX-QF-04                                 DESCRIPTION_IS_MISSING
+TBFK-ERRORX-QF-03-B                               DESCRIPTION_IS_MISSING
+TBFK-ERRORX-QF-03-A                               DESCRIPTION_IS_MISSING
+TBFK-ERRORX-QF-02                                 DESCRIPTION_IS_MISSING
+TBFK-ERRORX-QD-05                                 DESCRIPTION_IS_MISSING
+TBFK-ERRORX-QD-04                                 DESCRIPTION_IS_MISSING
+TBFK-ERRORX-QD-03-B                               DESCRIPTION_IS_MISSING
+TBFK-ERRORX-QD-03-A                               DESCRIPTION_IS_MISSING
+TBFK-ERRORX-QD-02                                 DESCRIPTION_IS_MISSING
+TBFK-ERRORX-Q1C-01                                DESCRIPTION_IS_MISSING
+TBFK-ERRORX-Q1B-01                                DESCRIPTION_IS_MISSING
+TBFK-ERRORX-Q1A-01-B                              DESCRIPTION_IS_MISSING
+TBFK-ERRORX-Q1A-01-A                              DESCRIPTION_IS_MISSING
+TBFK-ERRORX-CV-05-B                               DESCRIPTION_IS_MISSING
+TBFK-ERRORX-CV-05-A                               DESCRIPTION_IS_MISSING
+TBFK-ERRORX-CV-03-B                               DESCRIPTION_IS_MISSING
+TBFK-ERRORX-CV-03-A                               DESCRIPTION_IS_MISSING
+TBFK-ERRORX-CV-02-B                               DESCRIPTION_IS_MISSING
+TBFK-ERRORX-CV-02-A                               DESCRIPTION_IS_MISSING
+TBFK-ERRORX-CH-04                                 DESCRIPTION_IS_MISSING
+TBFK-ERRORX-CH-03-B                               DESCRIPTION_IS_MISSING
+TBFK-ERRORX-CH-03-A                               DESCRIPTION_IS_MISSING
+TBFK-ERRORX-CH-02-B                               DESCRIPTION_IS_MISSING
+TBFK-ERRORX-CH-02-A                               DESCRIPTION_IS_MISSING
+TBFK-ERRORX-BEND-04                               DESCRIPTION_IS_MISSING
+TBFK-ERRORX-BEND-03                               DESCRIPTION_IS_MISSING
+TBFK-ERRORX-BEND-02                               DESCRIPTION_IS_MISSING
+TBFK-ERRORX-BEND-01                               DESCRIPTION_IS_MISSING
+
+
+# --- FK (virtual accelerator fake PVs - roll rotation errors) ---
+
+TBFK-ERRORR-SEPIN-05                              DESCRIPTION_IS_MISSING
+TBFK-ERRORR-QF-05                                 DESCRIPTION_IS_MISSING
+TBFK-ERRORR-QF-04                                 DESCRIPTION_IS_MISSING
+TBFK-ERRORR-QF-03-B                               DESCRIPTION_IS_MISSING
+TBFK-ERRORR-QF-03-A                               DESCRIPTION_IS_MISSING
+TBFK-ERRORR-QF-02                                 DESCRIPTION_IS_MISSING
+TBFK-ERRORR-QD-05                                 DESCRIPTION_IS_MISSING
+TBFK-ERRORR-QD-04                                 DESCRIPTION_IS_MISSING
+TBFK-ERRORR-QD-03-B                               DESCRIPTION_IS_MISSING
+TBFK-ERRORR-QD-03-A                               DESCRIPTION_IS_MISSING
+TBFK-ERRORR-QD-02                                 DESCRIPTION_IS_MISSING
+TBFK-ERRORR-Q1C-01                                DESCRIPTION_IS_MISSING
+TBFK-ERRORR-Q1B-01                                DESCRIPTION_IS_MISSING
+TBFK-ERRORR-Q1A-01-B                              DESCRIPTION_IS_MISSING
+TBFK-ERRORR-Q1A-01-A                              DESCRIPTION_IS_MISSING
+TBFK-ERRORR-CV-05-B                               DESCRIPTION_IS_MISSING
+TBFK-ERRORR-CV-05-A                               DESCRIPTION_IS_MISSING
+TBFK-ERRORR-CV-03-B                               DESCRIPTION_IS_MISSING
+TBFK-ERRORR-CV-03-A                               DESCRIPTION_IS_MISSING
+TBFK-ERRORR-CV-02-B                               DESCRIPTION_IS_MISSING
+TBFK-ERRORR-CV-02-A                               DESCRIPTION_IS_MISSING
+TBFK-ERRORR-CH-04                                 DESCRIPTION_IS_MISSING
+TBFK-ERRORR-CH-03-B                               DESCRIPTION_IS_MISSING
+TBFK-ERRORR-CH-03-A                               DESCRIPTION_IS_MISSING
+TBFK-ERRORR-CH-02-B                               DESCRIPTION_IS_MISSING
+TBFK-ERRORR-CH-02-A                               DESCRIPTION_IS_MISSING
+TBFK-ERRORR-BEND-04                               DESCRIPTION_IS_MISSING
+TBFK-ERRORR-BEND-03                               DESCRIPTION_IS_MISSING
+TBFK-ERRORR-BEND-02                               DESCRIPTION_IS_MISSING
+TBFK-ERRORR-BEND-01                               DESCRIPTION_IS_MISSING
+
+
+# --- DI (diagnostics - BPMs) ---
+
+TBDI-BPM-FAM-Y                                    DESCRIPTION_IS_MISSING
+TBDI-BPM-FAM-X                                    DESCRIPTION_IS_MISSING
+TBDI-BPM-05                                       DESCRIPTION_IS_MISSING
+TBDI-BPM-04                                       DESCRIPTION_IS_MISSING
+TBDI-BPM-03-B                                     DESCRIPTION_IS_MISSING
+TBDI-BPM-03-A                                     DESCRIPTION_IS_MISSING
+TBDI-BPM-02-B                                     DESCRIPTION_IS_MISSING
+TBDI-BPM-02-A                                     DESCRIPTION_IS_MISSING

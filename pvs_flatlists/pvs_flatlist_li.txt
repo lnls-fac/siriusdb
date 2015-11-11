@@ -1,0 +1,20 @@
+# LINAC PV FLATLIST
+# =================
+#
+# Lists all LI PVs implemented in the Virtual Accelerator Channel Access
+#
+# TIMESTAMP: 2015-11-11 15:05:59  (by sirius-pvs-generate-flatlist.py)
+#
+
+
+# --- TI (timing) ---
+
+LITI-EGUN-ENABLED                                 DESCRIPTION_IS_MISSING
+LITI-EGUN-DELAY                                   DESCRIPTION_IS_MISSING
+LITI-CYCLE                                        DESCRIPTION_IS_MISSING
+
+
+# --- FK (virtual accelerator fake PVs) ---
+
+LIFK-SAVEFLATFILE                                 DESCRIPTION_IS_MISSING
+LIFK-MODE                                         DESCRIPTION_IS_MISSING
