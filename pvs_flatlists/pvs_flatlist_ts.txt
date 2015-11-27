@@ -1,0 +1,147 @@
+# BOOSTER-SR TRANSPORT LINE PV FLATLIST
+# =====================================
+#
+# Lists all TS PVs implemented in the Virtual Accelerator Channel Access
+#
+# TIMESTAMP: 2015-11-11 15:46:59  (by sirius-pvs-generate-flatlist.py)
+#
+
+
+# --- TI (timing) ---
+
+TSTI-SEPTUMTHIN-ENABLED                           DESCRIPTION_IS_MISSING
+TSTI-SEPTUMTHIN-DELAY                             DESCRIPTION_IS_MISSING
+TSTI-SEPTUMTHICK-ENABLED                          DESCRIPTION_IS_MISSING
+TSTI-SEPTUMTHICK-DELAY                            DESCRIPTION_IS_MISSING
+
+
+# --- PU (pulsed magnets) ---
+
+TSPU-SEPTUMTHIN-04                                DESCRIPTION_IS_MISSING
+TSPU-SEPTUMTHICK-04                               DESCRIPTION_IS_MISSING
+TSPU-SEPTUMEXT-01                                 DESCRIPTION_IS_MISSING
+
+
+# --- PS (power supplies)
+
+TSPS-QF-04                                        DESCRIPTION_IS_MISSING
+TSPS-QF-03                                        DESCRIPTION_IS_MISSING
+TSPS-QF-02                                        DESCRIPTION_IS_MISSING
+TSPS-QF-01-B                                      DESCRIPTION_IS_MISSING
+TSPS-QF-01-A                                      DESCRIPTION_IS_MISSING
+TSPS-QD-04-B                                      DESCRIPTION_IS_MISSING
+TSPS-QD-04-A                                      DESCRIPTION_IS_MISSING
+TSPS-QD-02                                        DESCRIPTION_IS_MISSING
+TSPS-CV-04-B                                      DESCRIPTION_IS_MISSING
+TSPS-CV-04-A                                      DESCRIPTION_IS_MISSING
+TSPS-CV-03                                        DESCRIPTION_IS_MISSING
+TSPS-CV-02                                        DESCRIPTION_IS_MISSING
+TSPS-CV-01-B                                      DESCRIPTION_IS_MISSING
+TSPS-CV-01-A                                      DESCRIPTION_IS_MISSING
+TSPS-CH-04                                        DESCRIPTION_IS_MISSING
+TSPS-CH-03                                        DESCRIPTION_IS_MISSING
+TSPS-CH-02                                        DESCRIPTION_IS_MISSING
+TSPS-CH-01                                        DESCRIPTION_IS_MISSING
+TSPS-BEND-03                                      DESCRIPTION_IS_MISSING
+TSPS-BEND-02                                      DESCRIPTION_IS_MISSING
+TSPS-BEND-01                                      DESCRIPTION_IS_MISSING
+
+
+# --- FK (virtual accelerator fake PVs) ---
+
+TSFK-SAVEFLATFILE                                 DESCRIPTION_IS_MISSING
+
+
+# --- FK (virtual accelerator fake PVs - vertical misalignments) ---
+
+TSFK-ERRORY-SEPTUMTHIN-04                         DESCRIPTION_IS_MISSING
+TSFK-ERRORY-SEPTUMTHICK-04                        DESCRIPTION_IS_MISSING
+TSFK-ERRORY-SEPTUMEXT-01                          DESCRIPTION_IS_MISSING
+TSFK-ERRORY-QF-04                                 DESCRIPTION_IS_MISSING
+TSFK-ERRORY-QF-03                                 DESCRIPTION_IS_MISSING
+TSFK-ERRORY-QF-02                                 DESCRIPTION_IS_MISSING
+TSFK-ERRORY-QF-01-B                               DESCRIPTION_IS_MISSING
+TSFK-ERRORY-QF-01-A                               DESCRIPTION_IS_MISSING
+TSFK-ERRORY-QD-04-B                               DESCRIPTION_IS_MISSING
+TSFK-ERRORY-QD-04-A                               DESCRIPTION_IS_MISSING
+TSFK-ERRORY-QD-02                                 DESCRIPTION_IS_MISSING
+TSFK-ERRORY-CV-04-B                               DESCRIPTION_IS_MISSING
+TSFK-ERRORY-CV-04-A                               DESCRIPTION_IS_MISSING
+TSFK-ERRORY-CV-03                                 DESCRIPTION_IS_MISSING
+TSFK-ERRORY-CV-02                                 DESCRIPTION_IS_MISSING
+TSFK-ERRORY-CV-01-B                               DESCRIPTION_IS_MISSING
+TSFK-ERRORY-CV-01-A                               DESCRIPTION_IS_MISSING
+TSFK-ERRORY-CH-04                                 DESCRIPTION_IS_MISSING
+TSFK-ERRORY-CH-03                                 DESCRIPTION_IS_MISSING
+TSFK-ERRORY-CH-02                                 DESCRIPTION_IS_MISSING
+TSFK-ERRORY-CH-01                                 DESCRIPTION_IS_MISSING
+TSFK-ERRORY-BEND-03                               DESCRIPTION_IS_MISSING
+TSFK-ERRORY-BEND-02                               DESCRIPTION_IS_MISSING
+TSFK-ERRORY-BEND-01                               DESCRIPTION_IS_MISSING
+
+
+# --- FK (virtual accelerator fake PVs - horizontal misalignments) ---
+
+TSFK-ERRORX-SEPTUMTHIN-04                         DESCRIPTION_IS_MISSING
+TSFK-ERRORX-SEPTUMTHICK-04                        DESCRIPTION_IS_MISSING
+TSFK-ERRORX-SEPTUMEXT-01                          DESCRIPTION_IS_MISSING
+TSFK-ERRORX-QF-04                                 DESCRIPTION_IS_MISSING
+TSFK-ERRORX-QF-03                                 DESCRIPTION_IS_MISSING
+TSFK-ERRORX-QF-02                                 DESCRIPTION_IS_MISSING
+TSFK-ERRORX-QF-01-B                               DESCRIPTION_IS_MISSING
+TSFK-ERRORX-QF-01-A                               DESCRIPTION_IS_MISSING
+TSFK-ERRORX-QD-04-B                               DESCRIPTION_IS_MISSING
+TSFK-ERRORX-QD-04-A                               DESCRIPTION_IS_MISSING
+TSFK-ERRORX-QD-02                                 DESCRIPTION_IS_MISSING
+TSFK-ERRORX-CV-04-B                               DESCRIPTION_IS_MISSING
+TSFK-ERRORX-CV-04-A                               DESCRIPTION_IS_MISSING
+TSFK-ERRORX-CV-03                                 DESCRIPTION_IS_MISSING
+TSFK-ERRORX-CV-02                                 DESCRIPTION_IS_MISSING
+TSFK-ERRORX-CV-01-B                               DESCRIPTION_IS_MISSING
+TSFK-ERRORX-CV-01-A                               DESCRIPTION_IS_MISSING
+TSFK-ERRORX-CH-04                                 DESCRIPTION_IS_MISSING
+TSFK-ERRORX-CH-03                                 DESCRIPTION_IS_MISSING
+TSFK-ERRORX-CH-02                                 DESCRIPTION_IS_MISSING
+TSFK-ERRORX-CH-01                                 DESCRIPTION_IS_MISSING
+TSFK-ERRORX-BEND-03                               DESCRIPTION_IS_MISSING
+TSFK-ERRORX-BEND-02                               DESCRIPTION_IS_MISSING
+TSFK-ERRORX-BEND-01                               DESCRIPTION_IS_MISSING
+
+
+# --- FK (virtual accelerator fake PVs - roll rotation errors) ---
+
+TSFK-ERRORR-SEPTUMTHIN-04                         DESCRIPTION_IS_MISSING
+TSFK-ERRORR-SEPTUMTHICK-04                        DESCRIPTION_IS_MISSING
+TSFK-ERRORR-SEPTUMEXT-01                          DESCRIPTION_IS_MISSING
+TSFK-ERRORR-QF-04                                 DESCRIPTION_IS_MISSING
+TSFK-ERRORR-QF-03                                 DESCRIPTION_IS_MISSING
+TSFK-ERRORR-QF-02                                 DESCRIPTION_IS_MISSING
+TSFK-ERRORR-QF-01-B                               DESCRIPTION_IS_MISSING
+TSFK-ERRORR-QF-01-A                               DESCRIPTION_IS_MISSING
+TSFK-ERRORR-QD-04-B                               DESCRIPTION_IS_MISSING
+TSFK-ERRORR-QD-04-A                               DESCRIPTION_IS_MISSING
+TSFK-ERRORR-QD-02                                 DESCRIPTION_IS_MISSING
+TSFK-ERRORR-CV-04-B                               DESCRIPTION_IS_MISSING
+TSFK-ERRORR-CV-04-A                               DESCRIPTION_IS_MISSING
+TSFK-ERRORR-CV-03                                 DESCRIPTION_IS_MISSING
+TSFK-ERRORR-CV-02                                 DESCRIPTION_IS_MISSING
+TSFK-ERRORR-CV-01-B                               DESCRIPTION_IS_MISSING
+TSFK-ERRORR-CV-01-A                               DESCRIPTION_IS_MISSING
+TSFK-ERRORR-CH-04                                 DESCRIPTION_IS_MISSING
+TSFK-ERRORR-CH-03                                 DESCRIPTION_IS_MISSING
+TSFK-ERRORR-CH-02                                 DESCRIPTION_IS_MISSING
+TSFK-ERRORR-CH-01                                 DESCRIPTION_IS_MISSING
+TSFK-ERRORR-BEND-03                               DESCRIPTION_IS_MISSING
+TSFK-ERRORR-BEND-02                               DESCRIPTION_IS_MISSING
+TSFK-ERRORR-BEND-01                               DESCRIPTION_IS_MISSING
+
+
+# --- DI (diagnostics - BPMs) ---
+
+TSDI-BPM-FAM-Y                                    DESCRIPTION_IS_MISSING
+TSDI-BPM-FAM-X                                    DESCRIPTION_IS_MISSING
+TSDI-BPM-04-B                                     DESCRIPTION_IS_MISSING
+TSDI-BPM-04-A                                     DESCRIPTION_IS_MISSING
+TSDI-BPM-03                                       DESCRIPTION_IS_MISSING
+TSDI-BPM-02                                       DESCRIPTION_IS_MISSING
+TSDI-BPM-01                                       DESCRIPTION_IS_MISSING
