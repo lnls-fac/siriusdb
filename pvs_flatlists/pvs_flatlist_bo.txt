@@ -3,7 +3,7 @@
 #
 # Lists all BO PVs implemented in the Virtual Accelerator Channel Access
 #
-# TIMESTAMP: 2015-11-11 15:46:59  (by sirius-pvs-generate-flatlist.py)
+# TIMESTAMP: 2016-01-11 09:45:11  (by sirius-pvs-generate-flatlist.py)
 #
 
 
@@ -98,6 +98,8 @@ BOPA-SIGY                                         DESCRIPTION_IS_MISSING
 BOPA-SIGX                                         DESCRIPTION_IS_MISSING
 BOPA-SIGS                                         DESCRIPTION_IS_MISSING
 BOPA-LIFETIME                                     DESCRIPTION_IS_MISSING
+BOPA-INJEFF                                       DESCRIPTION_IS_MISSING
+BOPA-EXTEFF                                       DESCRIPTION_IS_MISSING
 BOPA-EMITY                                        DESCRIPTION_IS_MISSING
 BOPA-EMITX                                        DESCRIPTION_IS_MISSING
 BOPA-CHROMY                                       DESCRIPTION_IS_MISSING
@@ -107,11 +109,15 @@ BOPA-BLIFETIME                                    DESCRIPTION_IS_MISSING
 
 # --- FK (fake virtual accelerator PVs) ---
 
+BOFK-SF-POS                                       DESCRIPTION_IS_MISSING
+BOFK-SD-POS                                       DESCRIPTION_IS_MISSING
 BOFK-SAVEFLATFILE                                 DESCRIPTION_IS_MISSING
 
 
 # --- FK (fake virtual accelerator PVs - vertical misalignments) ---
 
+BOFK-QF-POS                                       DESCRIPTION_IS_MISSING
+BOFK-QD-POS                                       DESCRIPTION_IS_MISSING
 BOFK-ERRORY-SF-50-U                               DESCRIPTION_IS_MISSING
 BOFK-ERRORY-SF-48-U                               DESCRIPTION_IS_MISSING
 BOFK-ERRORY-SF-46-U                               DESCRIPTION_IS_MISSING
@@ -754,6 +760,11 @@ BOFK-ERRORR-BEND-01                               DESCRIPTION_IS_MISSING
 
 # --- DI (diagnostics) ---
 
+BOFK-CV-POS                                       DESCRIPTION_IS_MISSING
+BOFK-CH-POS                                       DESCRIPTION_IS_MISSING
+BOFK-CAV-POS                                      DESCRIPTION_IS_MISSING
+BOFK-BPM-POS                                      DESCRIPTION_IS_MISSING
+BOFK-BEND-POS                                     DESCRIPTION_IS_MISSING
 BODI-TUNEV                                        DESCRIPTION_IS_MISSING
 BODI-TUNES                                        DESCRIPTION_IS_MISSING
 BODI-TUNEH                                        DESCRIPTION_IS_MISSING
