@@ -1,7 +1,7 @@
 # BOOSTER-SR TRANSPORT LINE PV FLATLIST
 # =====================================
 #
-# Lists all TS PVs implemented in the Virtual Accelerator Channel Access
+# Lists all TS recordnames implemented in the Virtual Accelerator Channel Access
 #
 # TIMESTAMP: 2016-01-27 17:20:34  (by sirius-recordnames-generate-flatlist.py)
 #

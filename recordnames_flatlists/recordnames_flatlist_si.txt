@@ -1,7 +1,7 @@
 # SIRIUS STORAGE RING PV FLATLIST
 # ===============================
 #
-# Lists all SI PVs implemented in the Virtual Accelerator Channel Access
+# Lists all SI recordnames implemented in the Virtual Accelerator Channel Access
 #
 # TIMESTAMP: 2016-01-27 17:20:34  (by sirius-recordnames-generate-flatlist.py)
 #
