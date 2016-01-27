@@ -1,5 +1,5 @@
-# SIRIUS STORAGE RING PV FLATLIST
-# ===============================
+# SIRIUS STORAGE RING RECORDNAME FLATLIST
+# =======================================
 #
 # Lists all SI recordnames implemented in the Virtual Accelerator Channel Access
 #

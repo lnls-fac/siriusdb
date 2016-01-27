@@ -1,5 +1,5 @@
-# BOOSTER-SR TRANSPORT LINE PV FLATLIST
-# =====================================
+# SIRIUS BOOSTER-SR TRANSPORT LINE RECORDNAME FLATLIST
+# ====================================================
 #
 # Lists all TS recordnames implemented in the Virtual Accelerator Channel Access
 #

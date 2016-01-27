@@ -1,5 +1,5 @@
-# BOOSTER PV FLATLIST
-# ===================
+# SIRIUS BOOSTER RECORDNAME FLATLIST
+# ==================================
 #
 # Lists all BO recordnames implemented in the Virtual Accelerator Channel Access
 #

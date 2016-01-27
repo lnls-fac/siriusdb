@@ -1,5 +1,5 @@
-# LINAC PV FLATLIST
-# =================
+# SIRIUS LINAC RECORDNAME FLATLIST
+# ================================
 #
 # Lists all LI recordnames implemented in the Virtual Accelerator Channel Access
 #
