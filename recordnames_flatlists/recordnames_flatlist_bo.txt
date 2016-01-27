@@ -3,7 +3,7 @@
 #
 # Lists all BO PVs implemented in the Virtual Accelerator Channel Access
 #
-# TIMESTAMP: 2016-01-11 09:45:11  (by sirius-pvs-generate-flatlist.py)
+# TIMESTAMP: 2016-01-27 17:20:34  (by sirius-recordnames-generate-flatlist.py)
 #
 
 
@@ -107,17 +107,129 @@ BOPA-CHROMX                                       DESCRIPTION_IS_MISSING
 BOPA-BLIFETIME                                    DESCRIPTION_IS_MISSING
 
 
-# --- FK (fake virtual accelerator PVs) ---
+# --- DI (diagnostics) ---
 
-BOFK-SF-POS                                       DESCRIPTION_IS_MISSING
-BOFK-SD-POS                                       DESCRIPTION_IS_MISSING
+BODI-TUNEV                                        DESCRIPTION_IS_MISSING
+BODI-TUNES                                        DESCRIPTION_IS_MISSING
+BODI-TUNEH                                        DESCRIPTION_IS_MISSING
+BODI-CURRENT                                      DESCRIPTION_IS_MISSING
+BODI-BCURRENT                                     DESCRIPTION_IS_MISSING
+
+# --- DI (diagnostics bpms) ---
+
+BODI-BPM-FAM:MONIT:Y                              DESCRIPTION_IS_MISSING
+BODI-BPM-FAM:MONIT:X                              DESCRIPTION_IS_MISSING
+BODI-BPM-50-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-50-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-49-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-49-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-48-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-48-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-47-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-47-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-46-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-46-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-45-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-45-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-44-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-44-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-43-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-43-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-42-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-42-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-41-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-41-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-40-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-40-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-39-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-39-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-38-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-38-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-37-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-37-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-36-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-36-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-35-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-35-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-34-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-34-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-33-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-33-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-32-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-32-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-31-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-31-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-30-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-30-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-29-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-29-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-28-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-28-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-27-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-27-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-26-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-26-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-25-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-25-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-24-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-24-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-23-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-23-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-22-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-22-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-21-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-21-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-20-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-20-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-19-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-19-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-18-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-18-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-17-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-17-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-16-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-16-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-15-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-15-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-14-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-14-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-13-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-13-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-12-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-12-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-11-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-11-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-10-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-10-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-09-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-09-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-08-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-08-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-07-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-07-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-06-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-06-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-05-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-05-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-04-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-04-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-03-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-03-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-02-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-02-U:MONIT:X                             DESCRIPTION_IS_MISSING
+BODI-BPM-01-U:MONIT:Y                             DESCRIPTION_IS_MISSING
+BODI-BPM-01-U:MONIT:X                             DESCRIPTION_IS_MISSING
+
+
+
+# --- FK (fake virtual accelerator PVs - vertical misalignments) ---
+
+
 BOFK-SAVEFLATFILE                                 DESCRIPTION_IS_MISSING
 
 
 # --- FK (fake virtual accelerator PVs - vertical misalignments) ---
 
-BOFK-QF-POS                                       DESCRIPTION_IS_MISSING
-BOFK-QD-POS                                       DESCRIPTION_IS_MISSING
 BOFK-ERRORY-SF-50-U                               DESCRIPTION_IS_MISSING
 BOFK-ERRORY-SF-48-U                               DESCRIPTION_IS_MISSING
 BOFK-ERRORY-SF-46-U                               DESCRIPTION_IS_MISSING
@@ -757,73 +869,16 @@ BOFK-ERRORR-BEND-03                               DESCRIPTION_IS_MISSING
 BOFK-ERRORR-BEND-02                               DESCRIPTION_IS_MISSING
 BOFK-ERRORR-BEND-01                               DESCRIPTION_IS_MISSING
 
-
-# --- DI (diagnostics) ---
+# --- FK (fake virtual accelerator PVs - longitudinal misalignments) ---
 
 BOFK-CV-POS                                       DESCRIPTION_IS_MISSING
 BOFK-CH-POS                                       DESCRIPTION_IS_MISSING
 BOFK-CAV-POS                                      DESCRIPTION_IS_MISSING
 BOFK-BPM-POS                                      DESCRIPTION_IS_MISSING
 BOFK-BEND-POS                                     DESCRIPTION_IS_MISSING
-BODI-TUNEV                                        DESCRIPTION_IS_MISSING
-BODI-TUNES                                        DESCRIPTION_IS_MISSING
-BODI-TUNEH                                        DESCRIPTION_IS_MISSING
-BODI-CURRENT                                      DESCRIPTION_IS_MISSING
-BODI-BCURRENT                                     DESCRIPTION_IS_MISSING
+BOFK-SF-POS                                       DESCRIPTION_IS_MISSING
+BOFK-SD-POS                                       DESCRIPTION_IS_MISSING
+BOFK-QF-POS                                       DESCRIPTION_IS_MISSING
+BOFK-QD-POS                                       DESCRIPTION_IS_MISSING
 
 
-# --- DI (diagnostics - bpms) ---
-
-BODI-BPM-FAM-Y                                    DESCRIPTION_IS_MISSING
-BODI-BPM-FAM-X                                    DESCRIPTION_IS_MISSING
-
-BODI-BPM-50-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-49-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-48-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-47-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-46-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-45-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-44-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-43-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-42-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-41-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-40-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-39-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-38-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-37-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-36-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-35-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-34-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-33-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-32-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-31-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-30-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-29-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-28-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-27-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-26-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-25-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-24-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-23-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-22-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-21-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-20-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-19-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-18-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-17-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-16-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-15-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-14-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-13-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-12-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-11-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-10-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-09-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-08-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-07-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-06-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-05-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-04-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-03-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-02-U                                     DESCRIPTION_IS_MISSING
-BODI-BPM-01-U                                     DESCRIPTION_IS_MISSING

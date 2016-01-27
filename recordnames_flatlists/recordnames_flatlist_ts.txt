@@ -3,7 +3,7 @@
 #
 # Lists all TS PVs implemented in the Virtual Accelerator Channel Access
 #
-# TIMESTAMP: 2016-01-11 09:45:11  (by sirius-pvs-generate-flatlist.py)
+# TIMESTAMP: 2016-01-27 17:20:34  (by sirius-recordnames-generate-flatlist.py)
 #
 
 
@@ -17,6 +17,8 @@ TSTI-SEPTUMTHICK-DELAY                            DESCRIPTION_IS_MISSING
 
 # --- PU (pulsed magnets) ---
 
+TSTI-SEPTUMEX-ENABLED                             DESCRIPTION_IS_MISSING
+TSTI-SEPTUMEX-DELAY                               DESCRIPTION_IS_MISSING
 TSPU-SEPTUMTHIN-04                                DESCRIPTION_IS_MISSING
 TSPU-SEPTUMTHICK-04                               DESCRIPTION_IS_MISSING
 TSPU-SEPTUMEXT-01                                 DESCRIPTION_IS_MISSING
@@ -46,20 +48,36 @@ TSPS-BEND-03                                      DESCRIPTION_IS_MISSING
 TSPS-BEND-02                                      DESCRIPTION_IS_MISSING
 TSPS-BEND-01                                      DESCRIPTION_IS_MISSING
 
+# --- DI (diagnostics - BPMs) ---
 
-# --- FK (virtual accelerator fake PVs) ---
+TSDI-BPM-FAM:MONIT:Y                              DESCRIPTION_IS_MISSING
+TSDI-BPM-FAM:MONIT:X                              DESCRIPTION_IS_MISSING
+TSDI-BPM-04-B:MONIT:Y                             DESCRIPTION_IS_MISSING
+TSDI-BPM-04-B:MONIT:X                             DESCRIPTION_IS_MISSING
+TSDI-BPM-04-A:MONIT:Y                             DESCRIPTION_IS_MISSING
+TSDI-BPM-04-A:MONIT:X                             DESCRIPTION_IS_MISSING
+TSDI-BPM-03:MONIT:Y                               DESCRIPTION_IS_MISSING
+TSDI-BPM-03:MONIT:X                               DESCRIPTION_IS_MISSING
+TSDI-BPM-02:MONIT:Y                               DESCRIPTION_IS_MISSING
+TSDI-BPM-02:MONIT:X                               DESCRIPTION_IS_MISSING
+TSDI-BPM-01:MONIT:Y                               DESCRIPTION_IS_MISSING
+TSDI-BPM-01:MONIT:X                               DESCRIPTION_IS_MISSING
+
+
+# --- PA (parameters) ---
 
 TSPA-INJEFF                                       DESCRIPTION_IS_MISSING
 TSPA-EXTEFF                                       DESCRIPTION_IS_MISSING
-TSFK-SEPTING-POS                                  DESCRIPTION_IS_MISSING
-TSFK-SEPTINF-POS                                  DESCRIPTION_IS_MISSING
-TSFK-SEPTEX-POS                                   DESCRIPTION_IS_MISSING
+
+
+# --- FK (virtual accelerator fake PVs) ---
+
 TSFK-SAVEFLATFILE                                 DESCRIPTION_IS_MISSING
 
 
 # --- FK (virtual accelerator fake PVs - vertical misalignments) ---
 
-TSFK-QUAD-POS                                     DESCRIPTION_IS_MISSING
+
 TSFK-ERRORY-SEPTUMTHIN-04                         DESCRIPTION_IS_MISSING
 TSFK-ERRORY-SEPTUMTHICK-04                        DESCRIPTION_IS_MISSING
 TSFK-ERRORY-SEPTUMEXT-01                          DESCRIPTION_IS_MISSING
@@ -142,16 +160,15 @@ TSFK-ERRORR-BEND-02                               DESCRIPTION_IS_MISSING
 TSFK-ERRORR-BEND-01                               DESCRIPTION_IS_MISSING
 
 
-# --- DI (diagnostics - BPMs) ---
+# --- FK (virtual accelerator fake PVs - longitudinal misalignments) ---
 
+TSFK-SEPTING-POS                                  DESCRIPTION_IS_MISSING
+TSFK-SEPTINF-POS                                  DESCRIPTION_IS_MISSING
+TSFK-SEPTEX-POS                                   DESCRIPTION_IS_MISSING
+TSFK-QUAD-POS                                     DESCRIPTION_IS_MISSING
 TSFK-CV-POS                                       DESCRIPTION_IS_MISSING
 TSFK-CH-POS                                       DESCRIPTION_IS_MISSING
 TSFK-BPM-POS                                      DESCRIPTION_IS_MISSING
 TSFK-BEND-POS                                     DESCRIPTION_IS_MISSING
-TSDI-BPM-FAM-Y                                    DESCRIPTION_IS_MISSING
-TSDI-BPM-FAM-X                                    DESCRIPTION_IS_MISSING
-TSDI-BPM-04-B                                     DESCRIPTION_IS_MISSING
-TSDI-BPM-04-A                                     DESCRIPTION_IS_MISSING
-TSDI-BPM-03                                       DESCRIPTION_IS_MISSING
-TSDI-BPM-02                                       DESCRIPTION_IS_MISSING
-TSDI-BPM-01                                       DESCRIPTION_IS_MISSING
+
+

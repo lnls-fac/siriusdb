@@ -3,7 +3,7 @@
 #
 # Lists all TB PVs implemented in the Virtual Accelerator Channel Access
 #
-# TIMESTAMP: 2016-01-11 09:45:11  (by sirius-pvs-generate-flatlist.py)
+# TIMESTAMP: 2016-01-27 17:20:34  (by sirius-recordnames-generate-flatlist.py)
 #
 
 
@@ -11,8 +11,6 @@
 
 TBTI-SEPTUMINJ-ENABLED                            DESCRIPTION_IS_MISSING
 TBTI-SEPTUMINJ-DELAY                              DESCRIPTION_IS_MISSING
-TBTI-SEPTUMEX-ENABLED                             DESCRIPTION_IS_MISSING
-TBTI-SEPTUMEX-DELAY                               DESCRIPTION_IS_MISSING
 
 
 # --- PU (pulsed magnets) ---
@@ -52,20 +50,30 @@ TBPS-BEND-03                                      DESCRIPTION_IS_MISSING
 TBPS-BEND-02                                      DESCRIPTION_IS_MISSING
 TBPS-BEND-01                                      DESCRIPTION_IS_MISSING
 
+# --- DI (diagnostics - bpms) ---
 
-# --- FK (virtual accelerator fake PVs) ---
+TBDI-BPM-FAM:MONIT:Y                              DESCRIPTION_IS_MISSING
+TBDI-BPM-FAM:MONIT:X                              DESCRIPTION_IS_MISSING
+TBDI-BPM-05:MONIT:Y                               DESCRIPTION_IS_MISSING
+TBDI-BPM-05:MONIT:X                               DESCRIPTION_IS_MISSING
+TBDI-BPM-04:MONIT:Y                               DESCRIPTION_IS_MISSING
+TBDI-BPM-04:MONIT:X                               DESCRIPTION_IS_MISSING
+TBDI-BPM-03-B:MONIT:Y                             DESCRIPTION_IS_MISSING
+TBDI-BPM-03-B:MONIT:X                             DESCRIPTION_IS_MISSING
+TBDI-BPM-03-A:MONIT:Y                             DESCRIPTION_IS_MISSING
+TBDI-BPM-03-A:MONIT:X                             DESCRIPTION_IS_MISSING
+TBDI-BPM-02-B:MONIT:Y                             DESCRIPTION_IS_MISSING
+TBDI-BPM-02-B:MONIT:X                             DESCRIPTION_IS_MISSING
+TBDI-BPM-02-A:MONIT:Y                             DESCRIPTION_IS_MISSING
+TBDI-BPM-02-A:MONIT:X                             DESCRIPTION_IS_MISSING
+
+# --- PA (parameters) ---
 
 TBPA-INJEFF                                       DESCRIPTION_IS_MISSING
 TBPA-EXTEFF                                       DESCRIPTION_IS_MISSING
-TBFK-TRIPLET-POS                                  DESCRIPTION_IS_MISSING
-TBFK-SEP-POS                                      DESCRIPTION_IS_MISSING
-TBFK-SAVEFLATFILE                                 DESCRIPTION_IS_MISSING
-
 
 # --- FK (virtual accelerator fake PVs - vertical misalignments) ---
 
-TBFK-QF-POS                                       DESCRIPTION_IS_MISSING
-TBFK-QD-POS                                       DESCRIPTION_IS_MISSING
 TBFK-ERRORY-SEPIN-05                              DESCRIPTION_IS_MISSING
 TBFK-ERRORY-QF-05                                 DESCRIPTION_IS_MISSING
 TBFK-ERRORY-QF-04                                 DESCRIPTION_IS_MISSING
@@ -96,7 +104,7 @@ TBFK-ERRORY-BEND-04                               DESCRIPTION_IS_MISSING
 TBFK-ERRORY-BEND-03                               DESCRIPTION_IS_MISSING
 TBFK-ERRORY-BEND-02                               DESCRIPTION_IS_MISSING
 TBFK-ERRORY-BEND-01                               DESCRIPTION_IS_MISSING
-TBFK-ERRORX-SEPIN-05                              DESCRIPTION_IS_MISSING
+
 
 
 # --- FK (virtual accelerator fake PVs - horizontal misalignments) ---
@@ -130,7 +138,7 @@ TBFK-ERRORX-BEND-04                               DESCRIPTION_IS_MISSING
 TBFK-ERRORX-BEND-03                               DESCRIPTION_IS_MISSING
 TBFK-ERRORX-BEND-02                               DESCRIPTION_IS_MISSING
 TBFK-ERRORX-BEND-01                               DESCRIPTION_IS_MISSING
-
+TBFK-ERRORX-SEPIN-05                              DESCRIPTION_IS_MISSING
 
 # --- FK (virtual accelerator fake PVs - roll rotation errors) ---
 
@@ -166,17 +174,15 @@ TBFK-ERRORR-BEND-02                               DESCRIPTION_IS_MISSING
 TBFK-ERRORR-BEND-01                               DESCRIPTION_IS_MISSING
 
 
-# --- DI (diagnostics - bpms) ---
+# --- FK (fake virtual accelerator PVs - longitudinal misalignments) ---
 
 TBFK-CV-POS                                       DESCRIPTION_IS_MISSING
 TBFK-CH-POS                                       DESCRIPTION_IS_MISSING
 TBFK-BPM-POS                                      DESCRIPTION_IS_MISSING
 TBFK-BEND-POS                                     DESCRIPTION_IS_MISSING
-TBDI-BPM-FAM-Y                                    DESCRIPTION_IS_MISSING
-TBDI-BPM-FAM-X                                    DESCRIPTION_IS_MISSING
-TBDI-BPM-05                                       DESCRIPTION_IS_MISSING
-TBDI-BPM-04                                       DESCRIPTION_IS_MISSING
-TBDI-BPM-03-B                                     DESCRIPTION_IS_MISSING
-TBDI-BPM-03-A                                     DESCRIPTION_IS_MISSING
-TBDI-BPM-02-B                                     DESCRIPTION_IS_MISSING
-TBDI-BPM-02-A                                     DESCRIPTION_IS_MISSING
+TBFK-TRIPLET-POS                                  DESCRIPTION_IS_MISSING
+TBFK-SEP-POS                                      DESCRIPTION_IS_MISSING
+TBFK-SAVEFLATFILE                                 DESCRIPTION_IS_MISSING
+TBFK-QF-POS                                       DESCRIPTION_IS_MISSING
+TBFK-QD-POS                                       DESCRIPTION_IS_MISSING
+
