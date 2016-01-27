@@ -859,12 +859,12 @@ SIDI-BCURRENT                                     DESCRIPTION_IS_MISSING
 
 # --- DI (diagnostics bpm) ---
 
-SIDI-BPM-FAM:MONIT:Y                              DESCRIPTION_IS_MISSING
-SIDI-BPM-FAM:MONIT:X                              DESCRIPTION_IS_MISSING
-SIDI-BPM-20M2:MONIT:Y                             DESCRIPTION_IS_MISSING
-SIDI-BPM-20M2:MONIT:X                             DESCRIPTION_IS_MISSING
-SIDI-BPM-20M1:MONIT:Y                             DESCRIPTION_IS_MISSING
-SIDI-BPM-20M1:MONIT:X                             DESCRIPTION_IS_MISSING
+SIDI-BPM-FAM:MONIT:Y                              measurement of vertical position of the beam from slow channel. vector with positions in all bpms [mm].
+SIDI-BPM-FAM:MONIT:X                              measurement of horizontal position of the beam from slow channel. vector with positions in all bpms [mm].
+SIDI-BPM-20M2:MONIT:Y                             measurement of vertical position of the beam from slow channel [mm].
+SIDI-BPM-20M2:MONIT:X                             measurement of horizontal position of the beam from slow channel [mm].
+SIDI-BPM-20M1:MONIT:Y                             measurement of vertical position of the beam from slow channel [mm].
+SIDI-BPM-20M1:MONIT:X                             measurement of horizontal position of the beam from slow channel [mm].
 SIDI-BPM-20C4:MONIT:Y                             DESCRIPTION_IS_MISSING
 SIDI-BPM-20C4:MONIT:X                             DESCRIPTION_IS_MISSING
 SIDI-BPM-20C3-B:MONIT:Y                           DESCRIPTION_IS_MISSING
