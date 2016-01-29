@@ -1,4 +1,4 @@
-# Qradupole
+# Quadrupole
 # harmonics       1
 # main_harmonic   1
 # units           Ampere T T
