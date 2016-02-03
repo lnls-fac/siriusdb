@@ -1,14 +1,15 @@
-# LINAC PV FLATLIST
-# =================
+# SIRIUS LINAC RECORDNAME FLATLIST
+# ================================
 #
-# Lists all LI PVs implemented in the Virtual Accelerator Channel Access
+# Lists all LI recordnames implemented in the Virtual Accelerator Channel Access
 #
-# TIMESTAMP: 2016-01-11 14:58:05  (by sirius-pvs-generate-flatlist.py)
+# TIMESTAMP: 2016-01-27 17:20:34  (by sirius-recordnames-generate-flatlist.py)
 #
 
 
 # --- TI (timing) ---
 
+LITI-INJECTION-BUNCH                              selects in which bunch of the storage ring the first bunch of the pulse is to be injected: 0-867
 LITI-EGUN-ENABLED                                 enable or disable pulse in electron gun: (0) disable | (1) enable
 LITI-EGUN-DELAY                                   linac delay with respect to global clock [seconds]
 LITI-CYCLE                                        enable injection procedure: (<>0) starts
