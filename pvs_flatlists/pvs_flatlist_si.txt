@@ -3,7 +3,7 @@
 #
 # Lists all SI PVs implemented in the Virtual Accelerator Channel Access
 #
-# TIMESTAMP: 2015-11-11 15:46:59  (by sirius-pvs-generate-flatlist.py)
+# TIMESTAMP: 2016-01-11 14:58:06  (by sirius-pvs-generate-flatlist.py)
 #
 
 # --- TI (timing) ---
@@ -1140,6 +1140,8 @@ SIPA-SIGY                                         DESCRIPTION_IS_MISSING
 SIPA-SIGX                                         DESCRIPTION_IS_MISSING
 SIPA-SIGS                                         DESCRIPTION_IS_MISSING
 SIPA-LIFETIME                                     DESCRIPTION_IS_MISSING
+SIPA-INJEFF-TOTAL                                 DESCRIPTION_IS_MISSING
+SIPA-INJEFF                                       DESCRIPTION_IS_MISSING
 SIPA-EMITY                                        DESCRIPTION_IS_MISSING
 SIPA-EMITX                                        DESCRIPTION_IS_MISSING
 SIPA-CHROMY                                       DESCRIPTION_IS_MISSING
@@ -1149,11 +1151,37 @@ SIPA-BLIFETIME                                    DESCRIPTION_IS_MISSING
 
 # --- FK (fake virtual accelerator PVs) ---
 
+SIFK-SFB-POS                                      DESCRIPTION_IS_MISSING
+SIFK-SFA-POS                                      DESCRIPTION_IS_MISSING
+SIFK-SF2K-POS                                     DESCRIPTION_IS_MISSING
+SIFK-SF2J-POS                                     DESCRIPTION_IS_MISSING
+SIFK-SF1K-POS                                     DESCRIPTION_IS_MISSING
+SIFK-SF1J-POS                                     DESCRIPTION_IS_MISSING
+SIFK-SDB-POS                                      DESCRIPTION_IS_MISSING
+SIFK-SDA-POS                                      DESCRIPTION_IS_MISSING
+SIFK-SD3K-POS                                     DESCRIPTION_IS_MISSING
+SIFK-SD3J-POS                                     DESCRIPTION_IS_MISSING
+SIFK-SD2K-POS                                     DESCRIPTION_IS_MISSING
+SIFK-SD2J-POS                                     DESCRIPTION_IS_MISSING
+SIFK-SD1K-POS                                     DESCRIPTION_IS_MISSING
+SIFK-SD1J-POS                                     DESCRIPTION_IS_MISSING
 SIFK-SAVEFLATFILE                                 DESCRIPTION_IS_MISSING
 
 
 # --- FK (fake virtual accelerator PVs - vertical misalignments) ---
 
+SIFK-QS-POS                                       DESCRIPTION_IS_MISSING
+SIFK-QFB-POS                                      DESCRIPTION_IS_MISSING
+SIFK-QFA-POS                                      DESCRIPTION_IS_MISSING
+SIFK-QF4-POS                                      DESCRIPTION_IS_MISSING
+SIFK-QF3-POS                                      DESCRIPTION_IS_MISSING
+SIFK-QF2-POS                                      DESCRIPTION_IS_MISSING
+SIFK-QF1-POS                                      DESCRIPTION_IS_MISSING
+SIFK-QDB2-POS                                     DESCRIPTION_IS_MISSING
+SIFK-QDB1-POS                                     DESCRIPTION_IS_MISSING
+SIFK-QDA-POS                                      DESCRIPTION_IS_MISSING
+SIFK-FCV-POS                                      DESCRIPTION_IS_MISSING
+SIFK-FCH-POS                                      DESCRIPTION_IS_MISSING
 SIFK-ERRORY-SFB-20M1                              DESCRIPTION_IS_MISSING
 SIFK-ERRORY-SFB-19M1                              DESCRIPTION_IS_MISSING
 SIFK-ERRORY-SFB-18M1                              DESCRIPTION_IS_MISSING
@@ -3386,6 +3414,13 @@ SIFK-ERRORR-B1-01-A                               DESCRIPTION_IS_MISSING
 
 # --- DI (diagnostics) ---
 
+SIFK-CV-POS                                       DESCRIPTION_IS_MISSING
+SIFK-CH-POS                                       DESCRIPTION_IS_MISSING
+SIFK-CAV-POS                                      DESCRIPTION_IS_MISSING
+SIFK-BPM-POS                                      DESCRIPTION_IS_MISSING
+SIFK-BC-POS                                       DESCRIPTION_IS_MISSING
+SIFK-B2-POS                                       DESCRIPTION_IS_MISSING
+SIFK-B1-POS                                       DESCRIPTION_IS_MISSING
 SIDI-TUNEV                                        DESCRIPTION_IS_MISSING
 SIDI-TUNES                                        DESCRIPTION_IS_MISSING
 SIDI-TUNEH                                        DESCRIPTION_IS_MISSING

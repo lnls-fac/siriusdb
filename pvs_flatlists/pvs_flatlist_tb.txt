@@ -3,7 +3,7 @@
 #
 # Lists all TB PVs implemented in the Virtual Accelerator Channel Access
 #
-# TIMESTAMP: 2015-11-11 15:46:59  (by sirius-pvs-generate-flatlist.py)
+# TIMESTAMP: 2016-01-11 14:58:05  (by sirius-pvs-generate-flatlist.py)
 #
 
 
@@ -11,8 +11,6 @@
 
 TBTI-SEPTUMINJ-ENABLED                            DESCRIPTION_IS_MISSING
 TBTI-SEPTUMINJ-DELAY                              DESCRIPTION_IS_MISSING
-TBTI-SEPTUMEX-ENABLED                             DESCRIPTION_IS_MISSING
-TBTI-SEPTUMEX-DELAY                               DESCRIPTION_IS_MISSING
 
 
 # --- PU (pulsed magnets) ---
@@ -55,11 +53,17 @@ TBPS-BEND-01                                      DESCRIPTION_IS_MISSING
 
 # --- FK (virtual accelerator fake PVs) ---
 
+TBPA-INJEFF                                       DESCRIPTION_IS_MISSING
+TBPA-EXTEFF                                       DESCRIPTION_IS_MISSING
+TBFK-TRIPLET-POS                                  DESCRIPTION_IS_MISSING
+TBFK-SEP-POS                                      DESCRIPTION_IS_MISSING
 TBFK-SAVEFLATFILE                                 DESCRIPTION_IS_MISSING
 
 
 # --- FK (virtual accelerator fake PVs - vertical misalignments) ---
 
+TBFK-QF-POS                                       DESCRIPTION_IS_MISSING
+TBFK-QD-POS                                       DESCRIPTION_IS_MISSING
 TBFK-ERRORY-SEPIN-05                              DESCRIPTION_IS_MISSING
 TBFK-ERRORY-QF-05                                 DESCRIPTION_IS_MISSING
 TBFK-ERRORY-QF-04                                 DESCRIPTION_IS_MISSING
@@ -162,6 +166,10 @@ TBFK-ERRORR-BEND-01                               DESCRIPTION_IS_MISSING
 
 # --- DI (diagnostics - bpms) ---
 
+TBFK-CV-POS                                       DESCRIPTION_IS_MISSING
+TBFK-CH-POS                                       DESCRIPTION_IS_MISSING
+TBFK-BPM-POS                                      DESCRIPTION_IS_MISSING
+TBFK-BEND-POS                                     DESCRIPTION_IS_MISSING
 TBDI-BPM-FAM-Y                                    DESCRIPTION_IS_MISSING
 TBDI-BPM-FAM-X                                    DESCRIPTION_IS_MISSING
 TBDI-BPM-05                                       DESCRIPTION_IS_MISSING

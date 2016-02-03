@@ -3,7 +3,7 @@
 #
 # Lists all TS PVs implemented in the Virtual Accelerator Channel Access
 #
-# TIMESTAMP: 2015-11-11 15:46:59  (by sirius-pvs-generate-flatlist.py)
+# TIMESTAMP: 2016-01-11 14:58:05  (by sirius-pvs-generate-flatlist.py)
 #
 
 
@@ -13,7 +13,8 @@ TSTI-SEPTUMTHIN-ENABLED                           DESCRIPTION_IS_MISSING
 TSTI-SEPTUMTHIN-DELAY                             DESCRIPTION_IS_MISSING
 TSTI-SEPTUMTHICK-ENABLED                          DESCRIPTION_IS_MISSING
 TSTI-SEPTUMTHICK-DELAY                            DESCRIPTION_IS_MISSING
-
+TSTI-SEPTUMEX-ENABLED                             DESCRIPTION_IS_MISSING
+TSTI-SEPTUMEX-DELAY                               DESCRIPTION_IS_MISSING
 
 # --- PU (pulsed magnets) ---
 
@@ -49,11 +50,17 @@ TSPS-BEND-01                                      DESCRIPTION_IS_MISSING
 
 # --- FK (virtual accelerator fake PVs) ---
 
+TSPA-INJEFF                                       DESCRIPTION_IS_MISSING
+TSPA-EXTEFF                                       DESCRIPTION_IS_MISSING
+TSFK-SEPTING-POS                                  DESCRIPTION_IS_MISSING
+TSFK-SEPTINF-POS                                  DESCRIPTION_IS_MISSING
+TSFK-SEPTEX-POS                                   DESCRIPTION_IS_MISSING
 TSFK-SAVEFLATFILE                                 DESCRIPTION_IS_MISSING
 
 
 # --- FK (virtual accelerator fake PVs - vertical misalignments) ---
 
+TSFK-QUAD-POS                                     DESCRIPTION_IS_MISSING
 TSFK-ERRORY-SEPTUMTHIN-04                         DESCRIPTION_IS_MISSING
 TSFK-ERRORY-SEPTUMTHICK-04                        DESCRIPTION_IS_MISSING
 TSFK-ERRORY-SEPTUMEXT-01                          DESCRIPTION_IS_MISSING
@@ -138,6 +145,10 @@ TSFK-ERRORR-BEND-01                               DESCRIPTION_IS_MISSING
 
 # --- DI (diagnostics - BPMs) ---
 
+TSFK-CV-POS                                       DESCRIPTION_IS_MISSING
+TSFK-CH-POS                                       DESCRIPTION_IS_MISSING
+TSFK-BPM-POS                                      DESCRIPTION_IS_MISSING
+TSFK-BEND-POS                                     DESCRIPTION_IS_MISSING
 TSDI-BPM-FAM-Y                                    DESCRIPTION_IS_MISSING
 TSDI-BPM-FAM-X                                    DESCRIPTION_IS_MISSING
 TSDI-BPM-04-B                                     DESCRIPTION_IS_MISSING
