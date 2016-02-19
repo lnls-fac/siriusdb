@@ -1,0 +1,37 @@
+# SIRIUS TB
+# ==================================
+#
+# TIMESTAMP 2016-02-19 15:20:11  (by sirius-get-machine-configuration.py)
+
+VA-TBPS-BEND-01                                    : -87.32636918461753
+VA-TBPS-BEND-02                                    : -87.32636918461753
+VA-TBPS-BEND-03                                    : 87.3263691846175
+VA-TBPS-BEND-04                                    : 87.3263691846175
+VA-TBPS-CH-02-A                                    : 0.0
+VA-TBPS-CH-02-B                                    : 0.0
+VA-TBPS-CH-03-A                                    : 0.0
+VA-TBPS-CH-03-B                                    : 0.0
+VA-TBPS-CH-04                                      : 0.0
+VA-TBPS-CV-02-A                                    : 0.0
+VA-TBPS-CV-02-B                                    : 0.0
+VA-TBPS-CV-03-A                                    : 0.0
+VA-TBPS-CV-03-B                                    : 0.0
+VA-TBPS-CV-05-A                                    : 0.0
+VA-TBPS-CV-05-B                                    : 0.0
+VA-TBPS-Q1A-01-A                                   : -15.998334265458567
+VA-TBPS-Q1A-01-B                                   : -15.998334265458567
+VA-TBPS-Q1B-01                                     : 15.760644175853662
+VA-TBPS-Q1C-01                                     : -10.845121966711218
+VA-TBPS-QD-02                                      : 84.26660369991448
+VA-TBPS-QD-03-A                                    : 50.06646064562147
+VA-TBPS-QD-03-B                                    : 29.867556697208737
+VA-TBPS-QD-04                                      : 20.1515722325286
+VA-TBPS-QD-05                                      : 70.8895629247014
+VA-TBPS-QF-02                                      : -131.5569642474743
+VA-TBPS-QF-03-A                                    : -67.87901083231404
+VA-TBPS-QF-03-B                                    : -28.972000688312647
+VA-TBPS-QF-04                                      : -79.68500549811111
+VA-TBPS-QF-05                                      : -115.37099545454524
+VA-TBPU-SEPTUMINJ-05                               : 406.0
+VA-TBTI-SEPTUMINJ-DELAY                            : 0.0
+VA-TBTI-SEPTUMINJ-ENABLED                          : 1.0
