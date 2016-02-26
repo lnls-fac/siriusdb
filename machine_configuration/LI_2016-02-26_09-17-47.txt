@@ -1,7 +1,7 @@
-# SIRIUS LI
+# SIRIUS LI MACHINE CONFIGURATION
 # ==================================
 #
-# TIMESTAMP 2016-02-19 15:20:11  (by sirius-get-machine-configuration.py)
+# TIMESTAMP 2016-02-26 09:17:47  (by sirius-save-machine-configuration.py)
 
 VA-LITI-CYCLE                                      : 0.0
 VA-LITI-EGUN-DELAY                                 : 1.951074531601459e-05

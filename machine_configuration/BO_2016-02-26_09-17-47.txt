@@ -1,7 +1,7 @@
-# SIRIUS BO
+# SIRIUS BO MACHINE CONFIGURATION
 # ==================================
 #
-# TIMESTAMP 2016-02-19 15:20:12  (by sirius-get-machine-configuration.py)
+# TIMESTAMP 2016-02-26 09:17:47  (by sirius-save-machine-configuration.py)
 
 VA-BOPS-BEND-FAM-A                                 : 22.942872276933567
 VA-BOPS-BEND-FAM-B                                 : 22.942872276933567

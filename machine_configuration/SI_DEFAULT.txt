@@ -1,4 +1,4 @@
-# SIRIUS SI
+# SIRIUS SI MACHINE CONFIGURATION
 # ==================================
 #
 # TIMESTAMP 2016-02-19 15:20:15  (by sirius-get-machine-configuration.py)

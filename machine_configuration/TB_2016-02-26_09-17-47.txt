@@ -1,7 +1,7 @@
-# SIRIUS TB
+# SIRIUS TB MACHINE CONFIGURATION
 # ==================================
 #
-# TIMESTAMP 2016-02-19 15:20:11  (by sirius-get-machine-configuration.py)
+# TIMESTAMP 2016-02-26 09:17:47  (by sirius-save-machine-configuration.py)
 
 VA-TBPS-BEND-01                                    : -87.32636918461753
 VA-TBPS-BEND-02                                    : -87.32636918461753
