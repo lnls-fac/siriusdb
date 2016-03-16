@@ -1,7 +1,7 @@
 # SIRIUS SI MACHINE CONFIGURATION
 # ==================================
 #
-# TIMESTAMP 2016-02-19 15:20:15  (by sirius-get-machine-configuration.py)
+# TIMESTAMP 2016-03-16 15:52:25  (by sirius-save-machine-configuration.py)
 
 VA-SIPS-BEND-FAM                                   : 581.1916191191597
 VA-SIPS-CH-01C1                                    : 0.0
@@ -464,7 +464,7 @@ VA-SIPS-QDA-17M2                                   : 0.0
 VA-SIPS-QDA-18M2                                   : 0.0
 VA-SIPS-QDA-19M2                                   : 0.0
 VA-SIPS-QDA-20M2                                   : 0.0
-VA-SIPS-QDA-FAM                                    : 50.84416529374949
+VA-SIPS-QDA-FAM                                    : 45.583154657535026
 VA-SIPS-QDB1-01M1                                  : 0.0
 VA-SIPS-QDB1-02M1                                  : 0.0
 VA-SIPS-QDB1-03M1                                  : 0.0
@@ -485,7 +485,7 @@ VA-SIPS-QDB1-17M1                                  : 0.0
 VA-SIPS-QDB1-18M1                                  : 0.0
 VA-SIPS-QDB1-19M1                                  : 0.0
 VA-SIPS-QDB1-20M1                                  : 0.0
-VA-SIPS-QDB1-FAM                                   : 64.50260313816837
+VA-SIPS-QDB1-FAM                                   : 59.795860800169656
 VA-SIPS-QDB2-01M1                                  : 0.0
 VA-SIPS-QDB2-02M1                                  : 0.0
 VA-SIPS-QDB2-03M1                                  : 0.0
@@ -506,7 +506,7 @@ VA-SIPS-QDB2-17M1                                  : 0.0
 VA-SIPS-QDB2-18M1                                  : 0.0
 VA-SIPS-QDB2-19M1                                  : 0.0
 VA-SIPS-QDB2-20M1                                  : 0.0
-VA-SIPS-QDB2-FAM                                   : 96.81243708195603
+VA-SIPS-QDB2-FAM                                   : 93.79540683826438
 VA-SIPS-QF1-01C1                                   : 0.0
 VA-SIPS-QF1-01C4                                   : 0.0
 VA-SIPS-QF1-02C1                                   : 0.0
@@ -547,7 +547,7 @@ VA-SIPS-QF1-19C1                                   : 0.0
 VA-SIPS-QF1-19C4                                   : 0.0
 VA-SIPS-QF1-20C1                                   : 0.0
 VA-SIPS-QF1-20C4                                   : 0.0
-VA-SIPS-QF1-FAM                                    : 153.20402305491285
+VA-SIPS-QF1-FAM                                    : 146.34944339903333
 VA-SIPS-QF2-01C1                                   : 0.0
 VA-SIPS-QF2-01C4                                   : 0.0
 VA-SIPS-QF2-02C1                                   : 0.0
@@ -588,7 +588,7 @@ VA-SIPS-QF2-19C1                                   : 0.0
 VA-SIPS-QF2-19C4                                   : 0.0
 VA-SIPS-QF2-20C1                                   : 0.0
 VA-SIPS-QF2-20C4                                   : 0.0
-VA-SIPS-QF2-FAM                                    : 208.6857730804511
+VA-SIPS-QF2-FAM                                    : 213.38421753089818
 VA-SIPS-QF3-01C2                                   : 0.0
 VA-SIPS-QF3-01C3                                   : 0.0
 VA-SIPS-QF3-02C2                                   : 0.0
@@ -629,7 +629,7 @@ VA-SIPS-QF3-19C2                                   : 0.0
 VA-SIPS-QF3-19C3                                   : 0.0
 VA-SIPS-QF3-20C2                                   : 0.0
 VA-SIPS-QF3-20C3                                   : 0.0
-VA-SIPS-QF3-FAM                                    : 165.8859581699599
+VA-SIPS-QF3-FAM                                    : 163.87636838850602
 VA-SIPS-QF4-01C2                                   : 0.0
 VA-SIPS-QF4-01C3                                   : 0.0
 VA-SIPS-QF4-02C2                                   : 0.0
@@ -670,7 +670,7 @@ VA-SIPS-QF4-19C2                                   : 0.0
 VA-SIPS-QF4-19C3                                   : 0.0
 VA-SIPS-QF4-20C2                                   : 0.0
 VA-SIPS-QF4-20C3                                   : 0.0
-VA-SIPS-QF4-FAM                                    : 195.5863210967245
+VA-SIPS-QF4-FAM                                    : 196.53801345882604
 VA-SIPS-QFA-01M2                                   : 0.0
 VA-SIPS-QFA-02M2                                   : 0.0
 VA-SIPS-QFA-03M2                                   : 0.0
@@ -691,7 +691,7 @@ VA-SIPS-QFA-17M2                                   : 0.0
 VA-SIPS-QFA-18M2                                   : 0.0
 VA-SIPS-QFA-19M2                                   : 0.0
 VA-SIPS-QFA-20M2                                   : 0.0
-VA-SIPS-QFA-FAM                                    : 189.33279330696726
+VA-SIPS-QFA-FAM                                    : 178.93508151306273
 VA-SIPS-QFB-01M1                                   : 0.0
 VA-SIPS-QFB-02M1                                   : 0.0
 VA-SIPS-QFB-03M1                                   : 0.0
@@ -712,7 +712,7 @@ VA-SIPS-QFB-17M1                                   : 0.0
 VA-SIPS-QFB-18M1                                   : 0.0
 VA-SIPS-QFB-19M1                                   : 0.0
 VA-SIPS-QFB-20M1                                   : 0.0
-VA-SIPS-QFB-FAM                                    : 317.4926781111099
+VA-SIPS-QFB-FAM                                    : 307.227955313795
 VA-SIPS-QS-01C1                                    : 0.0
 VA-SIPS-QS-01C4                                    : 0.0
 VA-SIPS-QS-01M1                                    : 0.0
@@ -793,25 +793,25 @@ VA-SIPS-QS-20C1                                    : 0.0
 VA-SIPS-QS-20C4                                    : 0.0
 VA-SIPS-QS-20M1                                    : 0.0
 VA-SIPS-QS-20M2                                    : 0.0
-VA-SIPS-SD1J-FAM                                   : 110.31666886336218
-VA-SIPS-SD1K-FAM                                   : 82.30076128722658
-VA-SIPS-SD2J-FAM                                   : 61.0257348275861
-VA-SIPS-SD2K-FAM                                   : 78.05931370220614
-VA-SIPS-SD3J-FAM                                   : 80.52298829905914
-VA-SIPS-SD3K-FAM                                   : 113.59473068141031
-VA-SIPS-SDA-FAM                                    : 49.49802195867277
-VA-SIPS-SDB-FAM                                    : 38.8497574290711
-VA-SIPS-SF1J-FAM                                   : 123.90860619283198
-VA-SIPS-SF1K-FAM                                   : 144.02283398328547
-VA-SIPS-SF2J-FAM                                   : 98.39361431805175
-VA-SIPS-SF2K-FAM                                   : 135.99279257577624
-VA-SIPS-SFA-FAM                                    : 33.46510630928594
-VA-SIPS-SFB-FAM                                    : 45.908844525405456
+VA-SIPS-SD1J-FAM                                   : 106.19598302758327
+VA-SIPS-SD1K-FAM                                   : 81.9113050424678
+VA-SIPS-SD2J-FAM                                   : 58.019774139796844
+VA-SIPS-SD2K-FAM                                   : 79.83566883519978
+VA-SIPS-SD3J-FAM                                   : 78.05748756224511
+VA-SIPS-SD3K-FAM                                   : 115.33615848061297
+VA-SIPS-SDA-FAM                                    : 50.410796610316886
+VA-SIPS-SDB-FAM                                    : 37.650257923538135
+VA-SIPS-SF1J-FAM                                   : 120.9945358956702
+VA-SIPS-SF1K-FAM                                   : 143.97628095874964
+VA-SIPS-SF2J-FAM                                   : 97.5356274031751
+VA-SIPS-SF2K-FAM                                   : 134.52011755369236
+VA-SIPS-SFA-FAM                                    : 34.28602099459966
+VA-SIPS-SFB-FAM                                    : 46.43651451495168
 VA-SIPU-KICKERINJ-01M2                             : 7210.0
 VA-SIPU-PMM-01M2                                   : 0.0
-VA-SIRF-FREQUENCY                                  : 499657952.0521054
+VA-SIRF-FREQUENCY                                  : 499657952.05210483
 VA-SIRF-VOLTAGE                                    : 3000000.0
-VA-SITI-KICKERINJ-DELAY                            : 0.23001855530931634
+VA-SITI-KICKERINJ-DELAY                            : 0.2300185553726935
 VA-SITI-KICKERINJ-ENABLED                          : 1.0
-VA-SITI-PMM-DELAY                                  : 0.23001900800117855
+VA-SITI-PMM-DELAY                                  : 0.23001900811459033
 VA-SITI-PMM-ENABLED                                : 1.0

@@ -1,9 +1,0 @@
-# SIRIUS LI MACHINE CONFIGURATION
-# ==================================
-#
-# TIMESTAMP 2016-02-26 09:17:47  (by sirius-save-machine-configuration.py)
-
-VA-LITI-CYCLE                                      : 0.0
-VA-LITI-EGUN-DELAY                                 : 1.951074531601459e-05
-VA-LITI-EGUN-ENABLED                               : 1.0
-VA-LITI-INJECTION-BUNCH                            : 0.0
