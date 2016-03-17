@@ -1962,6 +1962,19 @@ SIFK-ERRORY-B1-01-B                               fake record name to read/set v
 SIFK-ERRORY-B1-01-A                               fake record name to read/set vertical misalignment of element [m]
 
 
+SIFK-QS-POS                                       DESCRIPTION_IS_MISSING
+SIFK-QFB-POS                                      DESCRIPTION_IS_MISSING
+SIFK-QFA-POS                                      DESCRIPTION_IS_MISSING
+SIFK-QF4-POS                                      DESCRIPTION_IS_MISSING
+SIFK-QF3-POS                                      DESCRIPTION_IS_MISSING
+SIFK-QF2-POS                                      DESCRIPTION_IS_MISSING
+SIFK-QF1-POS                                      DESCRIPTION_IS_MISSING
+SIFK-QDB2-POS                                     DESCRIPTION_IS_MISSING
+SIFK-QDB1-POS                                     DESCRIPTION_IS_MISSING
+SIFK-QDA-POS                                      DESCRIPTION_IS_MISSING
+SIFK-FCV-POS                                      DESCRIPTION_IS_MISSING
+SIFK-FCH-POS                                      DESCRIPTION_IS_MISSING
+
 # --- FK (fake virtual accelerator recordnames - horizontal misalignments) ---
 
 SIFK-ERRORX-SFB-20M1                              fake record name to read/set horizontal misalignment of element [m]

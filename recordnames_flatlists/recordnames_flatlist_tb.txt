@@ -74,6 +74,8 @@ TBPA-EXTEFF                                       DESCRIPTION_IS_MISSING
 
 # --- FK (virtual accelerator fake PVs - vertical misalignments) ---
 
+TBFK-QF-POS                                       DESCRIPTION_IS_MISSING
+TBFK-QD-POS                                       DESCRIPTION_IS_MISSING
 TBFK-ERRORY-SEPIN-05                              DESCRIPTION_IS_MISSING
 TBFK-ERRORY-QF-05                                 DESCRIPTION_IS_MISSING
 TBFK-ERRORY-QF-04                                 DESCRIPTION_IS_MISSING
@@ -185,4 +187,3 @@ TBFK-SEP-POS                                      DESCRIPTION_IS_MISSING
 TBFK-SAVEFLATFILE                                 DESCRIPTION_IS_MISSING
 TBFK-QF-POS                                       DESCRIPTION_IS_MISSING
 TBFK-QD-POS                                       DESCRIPTION_IS_MISSING
-
