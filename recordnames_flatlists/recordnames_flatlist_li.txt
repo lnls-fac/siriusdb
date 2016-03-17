@@ -10,7 +10,7 @@
 # --- TI (timing) ---
 
 LITI-INJECTION-BUNCH                              selects in which bunch of the storage ring the first bunch of the pulse is to be injected: 0-867
-LITI-EGUN-ENABLED                                 enable or disable pulse in electron gun: (0) disable | (1) enable
+LITI-EGUN-ENABLED                                 enable or disable the electron gun trigger: (0) disable | (1) enable
 LITI-EGUN-DELAY                                   linac delay with respect to global clock [seconds]
 LITI-CYCLE                                        enable injection procedure: (<>0) starts
 
