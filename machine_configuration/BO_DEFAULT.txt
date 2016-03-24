@@ -63,7 +63,7 @@ VA-BOPU-KICKEREXT-48D-A                            : 1425.0
 VA-BOPU-KICKEREXT-48D-B                            : 1425.0
 VA-BOPU-KICKERINJ-01D                              : 1420.0
 VA-BORF-FREQUENCY                                  : 499654096.6666718
-VA-BORF-VOLTAGE                                    : 150007.45307575507
+VA-BORF-VOLTAGE                                    : 150000.00000000
 VA-BOTI-KICKEREXT-DELAY                            : 0.23001853380507886
 VA-BOTI-KICKEREXT-ENABLED                          : 1.0
 VA-BOTI-KICKERINJ-DELAY                            : 1.815700484599916e-05
