@@ -1,10 +1,10 @@
 # Lattice flatfile generated with lnls_at2flatfile
 
-% energy 150000000.000000 eV
+% energy 3000000000.000000 eV
 % harmonic_number 828 
-% cavity_on false 
-% radiation_on false 
-% vchamber_on false 
+% cavity_on true 
+% radiation_on true 
+% vchamber_on true 
 
 ### 0000 ###
 fam_name        start
@@ -3161,7 +3161,7 @@ vmax            +1.79999999999999986E-02
 fam_name        cav
 length          +0.00000000000000000E+00 
 pass_method     cavity_pass
-voltage         +1.50007453075755067E+05 
+voltage         +9.50000000000000000E+05 
 frequency       +4.99654096666668415E+08 
 hmax            +1.79999999999999986E-02 
 vmax            +1.79999999999999986E-02 
