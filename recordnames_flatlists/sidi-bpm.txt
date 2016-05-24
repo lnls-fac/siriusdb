@@ -1,5 +1,16 @@
-# List of BPM device names sorted according to longitudinal order in the storage ring
+# SIDI-BPM
+# ========
 # last update: 2015-05-19 (ximenes)
+#
+#   List of bpm device names sorted according to longitudinal order in the
+# storage ring. The storage ring is  supposed to start at the center of straight
+# section 01.
+#
+# syntax: 1. empty lines are discarded.
+#         2. lines starting with non-empty character # are considered comments.
+#         3. one devicename for each valid line.
+#         4. the devicename must be the first word of a valid line.
+#         5. all words in a valid line, apart from the first, are disregarded.
 
 SIDI-BPM-01M2
 SIDI-BPM-01C1-A
@@ -170,6 +181,3 @@ SIDI-BPM-20C3-A
 SIDI-BPM-20C3-B
 SIDI-BPM-20C4
 SIDI-BPM-20M1
-
-
-

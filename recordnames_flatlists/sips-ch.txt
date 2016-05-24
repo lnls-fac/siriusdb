@@ -1,5 +1,16 @@
-# List of slow horizontal corrector power supply device names sorted according to longitudinal order in the storage ring
+# SIPS-CH
+# =======
 # last update: 2015-05-19 (ximenes)
+#
+#   List of slow horizontal corrector power supply device names sorted according
+# to  longitudinal order  in the storage ring.  The storage ring is  supposed to
+# start at the center of straight section 01.
+#
+# syntax: 1. empty lines are discarded.
+#         2. lines starting with non-empty character # are considered comments.
+#         3. one devicename for each valid line.
+#         4. the devicename must be the first word of a valid line.
+#         5. all words in a valid line, apart from the first, are disregarded.
 
 SIPS-CH-01M2
 SIPS-CH-01C1
@@ -110,7 +121,3 @@ SIPS-CH-20C1
 SIPS-CH-20C2
 SIPS-CH-20C3
 SIPS-CH-20C4
-
-
-
-
