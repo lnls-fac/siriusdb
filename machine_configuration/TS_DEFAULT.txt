@@ -3,33 +3,6 @@
 #
 # TIMESTAMP 2016-02-19 15:20:14  (by sirius-get-machine-configuration.py)
 
-VA-TSPS-BEND-01                                    : 745.1892837538331
-VA-TSPS-BEND-02                                    : 745.1892837538331
-VA-TSPS-BEND-03                                    : 745.1892837538331
-VA-TSPS-CH-01                                      : 0.0
-VA-TSPS-CH-02                                      : 0.0
-VA-TSPS-CH-03                                      : 0.0
-VA-TSPS-CH-04                                      : 0.0
-VA-TSPS-CV-01-A                                    : 0.0
-VA-TSPS-CV-01-B                                    : 0.0
-VA-TSPS-CV-02                                      : 0.0
-VA-TSPS-CV-03                                      : 0.0
-VA-TSPS-CV-04-A                                    : 0.0
-VA-TSPS-CV-04-B                                    : 0.0
-VA-TSPS-QD-02                                      : 4.9319387161365285
-VA-TSPS-QD-04-A                                    : 4.7888742023044415
-VA-TSPS-QD-04-B                                    : 2.5595136846988
-VA-TSPS-QF-01-A                                    : -2.3655765954497383
-VA-TSPS-QF-01-B                                    : -1.6962553792011477
-VA-TSPS-QF-02                                      : -5.303649961405881
-VA-TSPS-QF-03                                      : -6.496004885440243
-VA-TSPS-QF-04                                      : -8.31485194788263
 VA-TSPU-SEPTUMEXT-01                               : 395.0
 VA-TSPU-SEPTUMTHICK-04                             : 1000.0
 VA-TSPU-SEPTUMTHIN-04                              : 1000.0
-VA-TSTI-SEPTUMEXT-DELAY                            : 0.22996490428257868
-VA-TSTI-SEPTUMEXT-ENABLED                          : 1.0
-VA-TSTI-SEPTUMTHICK-DELAY                          : 0.2299899877972013
-VA-TSTI-SEPTUMTHICK-ENABLED                        : 1.0
-VA-TSTI-SEPTUMTHIN-DELAY                           : 0.22998999280066276
-VA-TSTI-SEPTUMTHIN-ENABLED                         : 1.0
