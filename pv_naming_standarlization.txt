@@ -12,7 +12,7 @@ Standarlization of Process Variable (PV) Naming
     1-02 - <group> substring
 
     Various PVs associated with a particular device can genereally be grouped in categories or
-    functions. For example, SIPS-CH-01C1:SIGNALGENERATOR: ignaLGenerator
+    functions. For example, SIPS-CH-01C1:SIGNALGENERATOR:WAVEFORMTYPE
 
     1-03 - <record> substring
 
@@ -23,7 +23,7 @@ Standarlization of Process Variable (PV) Naming
 
     These are general guidelines to be used in naming PVs whenever possible
 
-    2-01 - all letters are should be capitalized
+    2-01 - all letters should be capitalized
     2-02 - words in PV names should either not be separated or be separated with the hyphen character.
  
 
