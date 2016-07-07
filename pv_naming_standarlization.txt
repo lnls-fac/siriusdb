@@ -11,8 +11,8 @@ Standarlization of Process Variable (PV) Naming
 
     1-02 - <group> substring
 
-    Various PVs associated with a particular device can genereally be grouped in categories or
-    functions. For example, SIPS-CH-01C1:SIGNALGENERATOR:WAVEFORMTYPE
+    Various PVs associated with a particular device can generally be grouped in categories or
+    functions. For example, SIPS-CH-01C1:SIGNALGENERATOR:WAVEFORMTYPE.
 
     1-03 - <record> substring
 
@@ -21,7 +21,7 @@ Standarlization of Process Variable (PV) Naming
 
 2.  General Guidelines
 
-    These are general guidelines to be used in naming PVs whenever possible
+    These are general guidelines to be used in naming PVs whenever possible:
 
     2-01 - all letters should be capitalized
     2-02 - words in PV names should either not be separated or be separated with the hyphen character.
@@ -34,7 +34,7 @@ Standarlization of Process Variable (PV) Naming
     3-01 - RB   : readback
     3-02 - SP   : setpoint
     3-03 - AVG  : average
-    3-04 - STD  : stardard deviation
+    3-04 - STD  : standard deviation
     3-05 - RMS  : root mean square
     3-06 - NUM  : number
     3-07 - INJ  : injection
