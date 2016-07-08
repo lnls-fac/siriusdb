@@ -31,28 +31,35 @@ Standarlization of Process Variable (PV) Naming
 
     These name shortcuts should be adopted when the case applies
 
-    3-01  :RB   - readback
-    3-02  :SP   - setpoint
-    3-03  :AVG  - average
-    3-04  :STD  - standard deviation
-    3-05  :RMS  - root mean square
-    3-06  :NUM  - number
-    3-07  :INJ  - injection
-    3-08  :EJE  - ejection
-    3-09  :INC  - increment
-    3-10  :DEC  - decrement
-    3-11  :H    - horizontal
-    3-12  :V    - vertical
-    3-13  :DIPK - dipolar kicker
-    3-14  :NLK  - non-linear kicker
+    3-01    RB          readback
+    3-02    SP          setpoint
+    3-03    AVG         average
+    3-04    STD         standard deviation
+    3-05    RMS         root mean square
+    3-06    number         NUM
+    3-07    INJ         injection
+    3-08    EJE         ejection
+    3-09    INC         increment
+    3-10    DEC         decrement
+    3-11    H           horizontal
+    3-12    V           vertical
+    3-13    DIPK        dipolar kicker
+    3-14    NLK         non-linear kicker
 
 
 4.  Common Names
 
     These common names should be used whenever possible
 
-    4-01  :ENABLED - 'True' | 'False'
-    4-02  :DELAY   - time value
+    4-01    ENABLED     for enabled or disabled functionalities
+    4-02    DELAY       for time delay values
+
+5.  Common Enum Strings
+
+    These are recommended string values for their corresponding enum PV types whenever it applies
+
+    5-01    ENABLED     'True' | 'False'
+    5-02    STATUS      'Ok' | ...
 
 
 
