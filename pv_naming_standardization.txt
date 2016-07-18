@@ -1,4 +1,4 @@
-Standarlization of Process Variable (PV) Naming
+Standardization of Process Variable (PV) Naming
 
 1.  PV names should be composed of three substrings:
 
@@ -19,9 +19,9 @@ Standarlization of Process Variable (PV) Naming
     This substring should name a specific EPICS record.
 
 
-2.  General Guidelines
+2.  General Rules
 
-    These are general guidelines to be used in naming PVs whenever possible:
+    These are general rules to be used in naming PVs:
 
     2-01 - all letters should be capitalized
     2-02 - words in PV names should either not be separated or be separated with the hyphen character.
@@ -56,7 +56,7 @@ Standarlization of Process Variable (PV) Naming
 
 5.  Common Enum Strings
 
-    These are recommended string values for their corresponding enum PV types whenever it applies
+    These are recommended string values for their corresponding enum PV types whenever they apply
 
     5-01    ENABLED     'True' | 'False'
     5-02    STATUS      'Ok' | ...
