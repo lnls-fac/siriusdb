@@ -1,7 +1,0 @@
-# Dipole
-# harmonics       0
-# main_harmonic   0 normal
-# units           Ampere T*m T*m
-#
--1000	-828 0
-+1000	+828 0
