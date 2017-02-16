@@ -1,0 +1,65 @@
+# SIRIUS TS MACHINE CONFIGURATION
+# ==================================
+#
+# TIMESTAMP 2017-02-16 17:24:30  (by sirius-save-machine-configuration.py)
+
+VA-TS-01:PS-QF1B:Current-RB                        : -3.038014156408593
+VA-TS-02:PS-QF2:Current-RB                         : -6.906891780831842
+VA-TS-04:PU-InjSG-2:Current-SP                     : 14.516045622094566
+VA-TS-03:PS-QF3:Current-SP                         : -6.584973719262223
+VA-TS-02:PS-CV:Current-SP                          : 0.0
+VA-TS-04:PS-QD4B:Current-SP                        : 2.1337455324847485
+VA-TS-04:PS-CV-1:Current-RB                        : 0.0
+VA-TS-02:PS-CH:Current-RB                          : 0.0
+VA-TS-01:PS-QF1B:Current-SP                        : -3.038014156408593
+VA-TS-01:PS-CH:Current-RB                          : 0.0
+VA-TS-01:PS-CV-1:Current-SP                        : 0.0
+VA-TS-04:PS-QD4A:Current-SP                        : 4.449120605346053
+VA-TS-04:PU-InjSG-1:Current-SP                     : 14.516045622094566
+VA-TS-Fam:PS-B:Current-SP                          : -0.058424912529517314
+VA-TS-03:PS-CH:Current-SP                          : 0.0
+VA-TS-02:PS-QD2:Current-SP                         : 4.121730053337722
+VA-TS-01:PS-QF1A:Current-SP                        : -2.986168688613134
+VA-TS-02:PS-CH:Current-SP                          : 0.0
+VA-TS-02:PS-QD2:Current-RB                         : 4.121730053337722
+VA-TS-04:PS-CH-2:Current-RB                        : 0.0
+VA-TS-04:PS-CV-2:Current-RB                        : 0.0
+VA-TS-04:PS-CV-1:Current-SP                        : 0.0
+VA-TS-04:PS-CH-1:Current-SP                        : 0.0
+VA-TS-03:PS-CV:Current-SP                          : 0.0
+VA-TS-04:PS-QF4:Current-RB                         : -9.03886667377165
+VA-TS-01:PS-CV-2:Current-RB                        : 0.0
+VA-TS-01:PS-CV-2:Current-SP                        : 0.0
+VA-TS-04:PS-QF4:Current-SP                         : -9.03886667377165
+VA-TS-01:PU-EjeSG:Current-SP                       : 9.874942801950693
+VA-TS-03:PS-CV:Current-RB                          : 0.0
+VA-TS-04:PU-InjSG-1:Current-RB                     : 14.516045622094566
+VA-TS-04:PS-CH-1:Current-RB                        : 0.0
+VA-TS-02:PS-QF2:Current-SP                         : -6.906891780831842
+VA-TS-04:PU-InjSG-2:Current-RB                     : 14.516045622094566
+VA-TS-01:PS-CV-1:Current-RB                        : 0.0
+VA-TS-04:PS-QD4B:Current-RB                        : 2.1337455324847485
+VA-TS-01:PS-QF1A:Current-RB                        : -2.986168688613134
+VA-TS-04:PU-InjSF:Current-SP                       : 24.90401081296386
+VA-TS-01:PU-EjeSF:Current-RB                       : 9.874942801950693
+VA-TS-01:PU-EjeSG:Current-RB                       : 9.874942801950693
+VA-TS-01:PU-EjeSF:Current-SP                       : 9.874942801950693
+VA-TS-Fam:PS-B:Current-RB                          : -0.058424912529517314
+VA-TS-03:PS-QF3:Current-RB                         : -6.584973719262223
+VA-TS-03:PS-CH:Current-RB                          : 0.0
+VA-TS-04:PU-InjSF:Current-RB                       : 24.90401081296386
+VA-TS-01:PS-CH:Current-SP                          : 0.0
+VA-TS-02:PS-CV:Current-RB                          : 0.0
+VA-TS-04:PS-CH-2:Current-SP                        : 0.0
+VA-TS-04:PS-QD4A:Current-RB                        : 4.449120605346053
+VA-TS-04:PS-CV-2:Current-SP                        : 0.0
+VA-TS-01:TI-EjeSF:Enbl                             : 1.0
+VA-TS-04:TI-InjSF:Enbl                             : 1.0
+VA-TS-01:TI-EjeSG:Enbl                             : 1.0
+VA-TS-01:TI-EjeSG:Delay                            : 0.22996490794945057
+VA-TS-01:TI-EjeSF:Delay                            : 0.22996490518987484
+VA-TS-04:TI-InjSG-1:Delay                          : 0.2299899810381138
+VA-TS-04:TI-InjSG-1:Enbl                           : 1.0
+VA-TS-04:TI-InjSF:Delay                            : 0.2299899865572653
+VA-TS-04:TI-InjSG-2:Enbl                           : 1.0
+VA-TS-04:TI-InjSG-2:Delay                          : 0.22998998379768956

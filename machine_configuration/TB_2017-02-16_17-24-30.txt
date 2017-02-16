@@ -1,0 +1,53 @@
+# SIRIUS TB MACHINE CONFIGURATION
+# ==================================
+#
+# TIMESTAMP 2017-02-16 17:24:30  (by sirius-save-machine-configuration.py)
+
+VA-TB-02:PS-QD2B:Current-RB                        : 29.867556697208737
+VA-TB-01:PS-QD1:Current-RB                         : 84.26660369991448
+VA-TB-02:PS-QF2A:Current-RB                        : -67.87901083231404
+VA-TB-02:PS-QD2B:Current-SP                        : 29.867556697208737
+VA-TB-Fam:PS-B:Current-RB                          : 14.554394864102909
+VA-TB-Fam:PS-B:Current-SP                          : 14.554394864102909
+VA-TB-02:PS-CH-1:Current-RB                        : 0.0
+VA-TB-04:PS-QF4:Current-RB                         : -115.37099545454524
+VA-TB-04:PS-QF4:Current-SP                         : -115.37099545454524
+VA-TB-01:PS-CV-1:Current-RB                        : 0.0
+VA-TB-02:PS-QD2A:Current-SP                        : 50.06646064562147
+VA-TB-02:PS-CH-1:Current-SP                        : 0.0
+VA-TB-02:PS-QF2A:Current-SP                        : -67.87901083231404
+VA-TB-01:PS-CH-2:Current-RB                        : 0.0
+VA-TB-02:PS-CV-1:Current-SP                        : 0.0
+VA-TB-04:PS-CV-1:Current-SP                        : 0.0
+VA-TB-03:PS-QD3:Current-RB                         : 20.1515722325286
+VA-TB-03:PS-CH:Current-RB                          : 0.0
+VA-TB-02:PS-QF2B:Current-RB                        : -28.972000688312647
+VA-TB-01:PS-CV-2:Current-RB                        : 0.0
+VA-TB-01:PS-CV-1:Current-SP                        : 0.0
+VA-TB-04:PS-CV-2:Current-RB                        : 0.0
+VA-TB-02:PS-CH-2:Current-RB                        : 0.0
+VA-TB-02:PS-CV-2:Current-RB                        : 0.0
+VA-TB-01:PS-CH-1:Current-RB                        : 0.0
+VA-TB-04:PU-InjS:Current-RB                        : 202.99999997492952
+VA-TB-03:PS-QF3:Current-SP                         : -79.68500549811111
+VA-TB-02:PS-CH-2:Current-SP                        : 0.0
+VA-TB-01:PS-CH-2:Current-SP                        : 0.0
+VA-TB-04:PU-InjS:Current-SP                        : 202.99999997492952
+VA-TB-02:PS-CV-1:Current-RB                        : 0.0
+VA-TB-01:PS-QD1:Current-SP                         : 84.26660369991448
+VA-TB-02:PS-QF2B:Current-SP                        : -28.972000688312647
+VA-TB-02:PS-CV-2:Current-SP                        : 0.0
+VA-TB-01:PS-CH-1:Current-SP                        : 0.0
+VA-TB-04:PS-CV-1:Current-RB                        : 0.0
+VA-TB-04:PS-QD4:Current-SP                         : 70.8895629247014
+VA-TB-04:PS-CV-2:Current-SP                        : 0.0
+VA-TB-03:PS-QD3:Current-SP                         : 20.1515722325286
+VA-TB-01:PS-CV-2:Current-SP                        : 0.0
+VA-TB-03:PS-QF3:Current-RB                         : -79.68500549811111
+VA-TB-03:PS-CH:Current-SP                          : 0.0
+VA-TB-04:PS-QD4:Current-RB                         : 70.8895629247014
+VA-TB-01:PS-QF1:Current-SP                         : -131.5569642474743
+VA-TB-01:PS-QF1:Current-RB                         : -131.5569642474743
+VA-TB-02:PS-QD2A:Current-RB                        : 50.06646064562147
+VA-TB-04:TI-InjS:Delay                             : 0.0
+VA-TB-04:TI-InjS:Enbl                              : 1.0
